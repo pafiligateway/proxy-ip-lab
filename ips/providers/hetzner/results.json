@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "FRA",
+      "delay_ms" : 340.6,
+      "down_mbps" : 7.03,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "159.69.48.209",
+      "isp" : "Hetzner Online GmbH",
+      "jitter_ms" : 16.6,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Hetzner",
+      "region" : "DE",
+      "score" : 74.3,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T19:49:32Z",
+      "up_mbps" : 3.15
+    },
+    {
+      "asn" : "",
+      "colo" : "FRA",
+      "delay_ms" : 337.9,
+      "down_mbps" : 2.76,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "138.199.147.113",
+      "isp" : "Hetzner Online GmbH",
+      "jitter_ms" : 13.2,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Hetzner",
+      "region" : "DE",
+      "score" : 73.4,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T19:49:10Z",
+      "up_mbps" : 8.16
+    }
+  ],
+  "provider" : "Hetzner",
+  "provider_id" : "hetzner",
+  "updated" : "2026-11-21T22:13:27Z"
+}

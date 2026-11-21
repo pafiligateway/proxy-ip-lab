@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "DFW",
+      "delay_ms" : 701.4,
+      "down_mbps" : 2.12,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "63.142.251.8",
+      "isp" : "Nodisto IT, LLC",
+      "jitter_ms" : 10.8,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Nodisto IT, LLC",
+      "region" : "US",
+      "score" : 60.9,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:29:29Z",
+      "up_mbps" : 2.95
+    }
+  ],
+  "provider" : "Nodisto IT, LLC",
+  "provider_id" : "nodisto-it-llc",
+  "updated" : "2026-11-21T22:13:27Z"
+}

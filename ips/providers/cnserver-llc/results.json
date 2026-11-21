@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "LAX",
+      "delay_ms" : 792.8,
+      "down_mbps" : 3,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "144.225.130.48",
+      "isp" : "CNServer LLC",
+      "jitter_ms" : 40.2,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "CNServer LLC",
+      "region" : "US",
+      "score" : 57.2,
+      "stability" : 0,
+      "tested_at" : "2026-11-21T21:30:00Z",
+      "up_mbps" : 2.92
+    },
+    {
+      "asn" : "",
+      "colo" : "LAX",
+      "delay_ms" : 827,
+      "down_mbps" : 0.91,
+      "edge" : false,
+      "grade" : "C+",
+      "ip" : "45.41.55.34",
+      "isp" : "CNServer LLC",
+      "jitter_ms" : 65.8,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "CNServer LLC",
+      "region" : "US",
+      "score" : 48.6,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:29:41Z",
+      "up_mbps" : 0.82
+    }
+  ],
+  "provider" : "CNServer LLC",
+  "provider_id" : "cnserver-llc",
+  "updated" : "2026-11-21T22:13:27Z"
+}

@@ -1,0 +1,67 @@
+{
+  "country" : "AE",
+  "country_name" : "United Arab Emirates",
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "DXB",
+      "delay_ms" : 677,
+      "down_mbps" : 3.76,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "95.174.68.155",
+      "isp" : "Melbikomas UAB",
+      "jitter_ms" : 36.1,
+      "loss_pct" : 0,
+      "port" : 2083,
+      "provider" : "Melbikomas UAB",
+      "region" : "AE",
+      "score" : 61.7,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:53:25Z",
+      "up_mbps" : 3.52
+    },
+    {
+      "asn" : "",
+      "colo" : "SIN",
+      "delay_ms" : 838.5,
+      "down_mbps" : 3.77,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "90.156.220.194",
+      "isp" : "Itglobal COM Dmcc",
+      "jitter_ms" : 13.8,
+      "loss_pct" : 0,
+      "port" : 2053,
+      "provider" : "Itglobal COM Dmcc",
+      "region" : "AE",
+      "score" : 58.7,
+      "stability" : 0,
+      "tested_at" : "2026-11-21T21:53:31Z",
+      "up_mbps" : 2.77
+    },
+    {
+      "asn" : "",
+      "colo" : "MRS",
+      "delay_ms" : 915.2,
+      "down_mbps" : 4.1,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "3.29.240.49",
+      "isp" : "Amazon Data Services UAE",
+      "jitter_ms" : 5.1,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Amazon / AWS",
+      "region" : "AE",
+      "score" : 57.7,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:53:29Z",
+      "up_mbps" : 2.89
+    }
+  ],
+  "operators" : [
+    "tci"
+  ],
+  "updated" : "2026-11-21T22:13:27Z"
+}

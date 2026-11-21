@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "ORD",
+      "delay_ms" : 634.2,
+      "down_mbps" : 4.28,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "45.133.17.106",
+      "isp" : "ITGLOBAL.COM NL B.V.",
+      "jitter_ms" : 13.6,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "ITGLOBAL.COM NL B.V.",
+      "region" : "CA",
+      "score" : 65.1,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:41:33Z",
+      "up_mbps" : 3.66
+    },
+    {
+      "asn" : "",
+      "colo" : "YYZ",
+      "delay_ms" : 630.5,
+      "down_mbps" : 3.6,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "45.133.17.27",
+      "isp" : "ITGLOBAL.COM NL B.V.",
+      "jitter_ms" : 21.8,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "ITGLOBAL.COM NL B.V.",
+      "region" : "CA",
+      "score" : 64,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:41:37Z",
+      "up_mbps" : 3.77
+    }
+  ],
+  "provider" : "ITGLOBAL.COM NL B.V.",
+  "provider_id" : "itglobal-com-nl-b-v",
+  "updated" : "2026-11-21T22:13:27Z"
+}

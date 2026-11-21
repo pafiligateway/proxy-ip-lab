@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "PHX",
+      "delay_ms" : 800.5,
+      "down_mbps" : 2.64,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "143.246.56.237",
+      "isp" : "AkileCloud LLC",
+      "jitter_ms" : 41.6,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "AkileCloud LLC",
+      "region" : "US",
+      "score" : 56.4,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:29:41Z",
+      "up_mbps" : 2.88
+    },
+    {
+      "asn" : "",
+      "colo" : "NRT",
+      "delay_ms" : 1011.4,
+      "down_mbps" : 2.43,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "156.246.93.242",
+      "isp" : "AkileCloud LLC",
+      "jitter_ms" : 9.6,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "AkileCloud LLC",
+      "region" : "JP",
+      "score" : 52.5,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T22:02:21Z",
+      "up_mbps" : 2.07
+    }
+  ],
+  "provider" : "AkileCloud LLC",
+  "provider_id" : "akilecloud-llc",
+  "updated" : "2026-11-21T22:13:27Z"
+}

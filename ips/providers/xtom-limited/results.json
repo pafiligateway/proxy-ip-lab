@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "NRT",
+      "delay_ms" : 968.4,
+      "down_mbps" : 2.52,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "103.201.131.215",
+      "isp" : "xTom Limited",
+      "jitter_ms" : 26.3,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "xTom Limited",
+      "region" : "JP",
+      "score" : 52.5,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T22:01:57Z",
+      "up_mbps" : 2.17
+    }
+  ],
+  "provider" : "xTom Limited",
+  "provider_id" : "xtom-limited",
+  "updated" : "2026-11-21T22:13:27Z"
+}

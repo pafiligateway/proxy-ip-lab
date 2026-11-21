@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "AMS",
+      "delay_ms" : 329.8,
+      "down_mbps" : 7.01,
+      "edge" : false,
+      "grade" : "A-",
+      "ip" : "185.6.13.50",
+      "isp" : "Melbikomas UAB",
+      "jitter_ms" : 15,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Melbikomas UAB",
+      "region" : "NL",
+      "score" : 76.6,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T19:41:06Z",
+      "up_mbps" : 7.73
+    },
+    {
+      "asn" : "",
+      "colo" : "DXB",
+      "delay_ms" : 677,
+      "down_mbps" : 3.76,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "95.174.68.155",
+      "isp" : "Melbikomas UAB",
+      "jitter_ms" : 36.1,
+      "loss_pct" : 0,
+      "port" : 2083,
+      "provider" : "Melbikomas UAB",
+      "region" : "AE",
+      "score" : 61.7,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:53:25Z",
+      "up_mbps" : 3.52
+    }
+  ],
+  "provider" : "Melbikomas UAB",
+  "provider_id" : "melbikomas-uab",
+  "updated" : "2026-11-21T22:13:27Z"
+}

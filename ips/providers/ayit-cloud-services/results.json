@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "SJC",
+      "delay_ms" : 745.8,
+      "down_mbps" : 3.62,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "23.246.154.209",
+      "isp" : "AYIT Cloud Services",
+      "jitter_ms" : 32.6,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "AYIT Cloud Services",
+      "region" : "US",
+      "score" : 59.5,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:30:02Z",
+      "up_mbps" : 2.94
+    }
+  ],
+  "provider" : "AYIT Cloud Services",
+  "provider_id" : "ayit-cloud-services",
+  "updated" : "2026-11-21T22:13:27Z"
+}

@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "SOF",
+      "delay_ms" : 349.9,
+      "down_mbps" : 9.19,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "155.103.70.240",
+      "isp" : "FibaCloud",
+      "jitter_ms" : 35.5,
+      "loss_pct" : 0,
+      "port" : 2083,
+      "provider" : "FibaCloud",
+      "region" : "TR",
+      "score" : 75.2,
+      "stability" : 0,
+      "tested_at" : "2026-11-21T21:47:43Z",
+      "up_mbps" : 7.61
+    },
+    {
+      "asn" : "",
+      "colo" : "IST",
+      "delay_ms" : 321.1,
+      "down_mbps" : 4.39,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "155.103.69.91",
+      "isp" : "FibaCloud",
+      "jitter_ms" : 2.1,
+      "loss_pct" : 0,
+      "port" : 8443,
+      "provider" : "FibaCloud",
+      "region" : "TR",
+      "score" : 71.6,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:47:47Z",
+      "up_mbps" : 0.43
+    }
+  ],
+  "provider" : "FibaCloud",
+  "provider_id" : "fibacloud",
+  "updated" : "2026-11-21T22:13:27Z"
+}

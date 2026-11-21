@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "CDG",
+      "delay_ms" : 357.4,
+      "down_mbps" : 7.58,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "92.119.56.83",
+      "isp" : "Nrp Teknoloji Limited Sirketi",
+      "jitter_ms" : 40.7,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Nrp Teknoloji Limited Sirketi",
+      "region" : "FR",
+      "score" : 73.7,
+      "stability" : 0,
+      "tested_at" : "2026-11-21T21:26:14Z",
+      "up_mbps" : 6.54
+    }
+  ],
+  "provider" : "Nrp Teknoloji Limited Sirketi",
+  "provider_id" : "nrp-teknoloji-limited-sirketi",
+  "updated" : "2026-11-21T22:13:27Z"
+}

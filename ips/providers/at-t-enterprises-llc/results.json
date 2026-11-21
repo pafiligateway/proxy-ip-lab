@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "CLE",
+      "delay_ms" : 667,
+      "down_mbps" : 0.85,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "162.230.251.4",
+      "isp" : "AT&T Enterprises, LLC",
+      "jitter_ms" : 37.6,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "AT&T Enterprises, LLC",
+      "region" : "US",
+      "score" : 55.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:29:51Z",
+      "up_mbps" : 1.13
+    }
+  ],
+  "provider" : "AT&T Enterprises, LLC",
+  "provider_id" : "at-t-enterprises-llc",
+  "updated" : "2026-11-21T22:13:27Z"
+}

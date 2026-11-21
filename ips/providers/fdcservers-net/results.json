@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "LHR",
+      "delay_ms" : 377.3,
+      "down_mbps" : 7.63,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "168.222.13.72",
+      "isp" : "FDCservers.net",
+      "jitter_ms" : 18.9,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "FDCservers.net",
+      "region" : "GB",
+      "score" : 74.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:34:15Z",
+      "up_mbps" : 6.21
+    },
+    {
+      "asn" : "",
+      "colo" : "LHR",
+      "delay_ms" : 1205.6,
+      "down_mbps" : 6.19,
+      "edge" : false,
+      "grade" : "C",
+      "ip" : "168.222.13.74",
+      "isp" : "FDCservers.net",
+      "jitter_ms" : 597,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "FDCservers.net",
+      "region" : "GB",
+      "score" : 37.7,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T19:56:35Z",
+      "up_mbps" : 4.08
+    }
+  ],
+  "provider" : "FDCservers.net",
+  "provider_id" : "fdcservers-net",
+  "updated" : "2026-11-21T22:13:27Z"
+}

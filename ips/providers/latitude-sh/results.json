@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "LHR",
+      "delay_ms" : 362.9,
+      "down_mbps" : 6.78,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "5.83.218.80",
+      "isp" : "Latitude.sh",
+      "jitter_ms" : 9.8,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Latitude.sh",
+      "region" : "GB",
+      "score" : 74.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:34:20Z",
+      "up_mbps" : 4.3
+    }
+  ],
+  "provider" : "Latitude.sh",
+  "provider_id" : "latitude-sh",
+  "updated" : "2026-11-21T22:13:27Z"
+}

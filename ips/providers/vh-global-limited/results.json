@@ -1,0 +1,25 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "HKG",
+      "delay_ms" : 788.3,
+      "down_mbps" : 0,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "39.109.109.213",
+      "isp" : "VH Global Limited",
+      "jitter_ms" : 19.4,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "VH Global Limited",
+      "region" : "HK",
+      "score" : 52.7,
+      "tested_at" : "2026-11-21T21:58:14Z",
+      "up_mbps" : 2.76
+    }
+  ],
+  "provider" : "VH Global Limited",
+  "provider_id" : "vh-global-limited",
+  "updated" : "2026-11-21T22:13:27Z"
+}

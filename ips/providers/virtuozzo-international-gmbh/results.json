@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "FRA",
+      "delay_ms" : 346.9,
+      "down_mbps" : 4.5,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "185.209.82.152",
+      "isp" : "Virtuozzo International GmbH",
+      "jitter_ms" : 13,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Virtuozzo International GmbH",
+      "region" : "DE",
+      "score" : 74,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T19:49:30Z",
+      "up_mbps" : 5.68
+    }
+  ],
+  "provider" : "Virtuozzo International GmbH",
+  "provider_id" : "virtuozzo-international-gmbh",
+  "updated" : "2026-11-21T22:13:27Z"
+}

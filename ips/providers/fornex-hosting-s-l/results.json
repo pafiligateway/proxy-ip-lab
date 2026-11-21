@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "FRA",
+      "delay_ms" : 450.1,
+      "down_mbps" : 8.46,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "130.17.20.158",
+      "isp" : "Fornex Hosting S.L.",
+      "jitter_ms" : 125.2,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Fornex Hosting S.L.",
+      "region" : "DE",
+      "score" : 65,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T19:49:28Z",
+      "up_mbps" : 8.34
+    },
+    {
+      "asn" : "",
+      "colo" : "FRA",
+      "delay_ms" : 378.7,
+      "down_mbps" : 6.46,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "89.127.215.71",
+      "isp" : "Fornex Hosting S.L.",
+      "jitter_ms" : 146.2,
+      "loss_pct" : 0,
+      "port" : 8443,
+      "provider" : "Fornex Hosting S.L.",
+      "region" : "DE",
+      "score" : 61.6,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T19:49:12Z",
+      "up_mbps" : 1.96
+    }
+  ],
+  "provider" : "Fornex Hosting S.L.",
+  "provider_id" : "fornex-hosting-s-l",
+  "updated" : "2026-11-21T22:13:27Z"
+}

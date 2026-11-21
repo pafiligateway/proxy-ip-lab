@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "TBS",
+      "delay_ms" : 757.8,
+      "down_mbps" : 2.39,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "2.26.10.137",
+      "isp" : "Proservice LLC",
+      "jitter_ms" : 68.8,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Proservice LLC",
+      "region" : "GE",
+      "score" : 55.4,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T22:12:52Z",
+      "up_mbps" : 4.16
+    },
+    {
+      "asn" : "",
+      "colo" : "TBS",
+      "delay_ms" : 1168.7,
+      "down_mbps" : 5.5,
+      "edge" : false,
+      "grade" : "C",
+      "ip" : "91.239.206.65",
+      "isp" : "Proservice LLC",
+      "jitter_ms" : 1026.4,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Proservice LLC",
+      "region" : "GE",
+      "score" : 37.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T22:12:52Z",
+      "up_mbps" : 4.25
+    }
+  ],
+  "provider" : "Proservice LLC",
+  "provider_id" : "proservice-llc",
+  "updated" : "2026-11-21T22:13:27Z"
+}

@@ -1,0 +1,29 @@
+{
+  "country" : "CN",
+  "country_name" : "China",
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "HKG",
+      "delay_ms" : 878.4,
+      "down_mbps" : 2.78,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "43.161.228.229",
+      "isp" : "ACEVILLE PTE.LTD.",
+      "jitter_ms" : 9.3,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "ACEVILLE PTE.LTD.",
+      "region" : "CN",
+      "score" : 54.9,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:57:07Z",
+      "up_mbps" : 0.65
+    }
+  ],
+  "operators" : [
+    "tci"
+  ],
+  "updated" : "2026-11-21T22:13:27Z"
+}

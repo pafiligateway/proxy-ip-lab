@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "SJC",
+      "delay_ms" : 833.5,
+      "down_mbps" : 0.69,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "185.220.249.157",
+      "isp" : "Huize Holdings LLC",
+      "jitter_ms" : 19.9,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Huize Holdings LLC",
+      "region" : "US",
+      "score" : 52.6,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:30:01Z",
+      "up_mbps" : 1.27
+    }
+  ],
+  "provider" : "Huize Holdings LLC",
+  "provider_id" : "huize-holdings-llc",
+  "updated" : "2026-11-21T22:13:27Z"
+}

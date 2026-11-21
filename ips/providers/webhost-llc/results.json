@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "FRA",
+      "delay_ms" : 467.4,
+      "down_mbps" : 7.95,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "185.179.189.75",
+      "isp" : "Webhost LLC",
+      "jitter_ms" : 10.9,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Webhost LLC",
+      "region" : "RU",
+      "score" : 73.2,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T22:07:52Z",
+      "up_mbps" : 6.12
+    }
+  ],
+  "provider" : "Webhost LLC",
+  "provider_id" : "webhost-llc",
+  "updated" : "2026-11-21T22:13:27Z"
+}

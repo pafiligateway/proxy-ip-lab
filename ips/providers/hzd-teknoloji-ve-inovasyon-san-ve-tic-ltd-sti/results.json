@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "IST",
+      "delay_ms" : 207.5,
+      "down_mbps" : 8.82,
+      "edge" : false,
+      "grade" : "A-",
+      "ip" : "188.132.215.32",
+      "isp" : "HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.",
+      "jitter_ms" : 7.8,
+      "loss_pct" : 0,
+      "port" : 8443,
+      "provider" : "HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.",
+      "region" : "TR",
+      "score" : 79.6,
+      "stability" : 1,
+      "tested_at" : "2026-11-21T21:47:40Z",
+      "up_mbps" : 3.33
+    }
+  ],
+  "provider" : "HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.",
+  "provider_id" : "hzd-teknoloji-ve-inovasyon-san-ve-tic-ltd-sti",
+  "updated" : "2026-11-21T22:13:27Z"
+}

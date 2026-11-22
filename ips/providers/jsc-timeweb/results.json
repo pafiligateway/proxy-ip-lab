@@ -60,6 +60,44 @@
     {
       "asn" : "",
       "colo" : "FRA",
+      "delay_ms" : 756.2,
+      "down_mbps" : 4.78,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "80.90.182.102",
+      "isp" : "JSC TIMEWEB",
+      "jitter_ms" : 6.4,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "JSC TIMEWEB",
+      "region" : "KZ",
+      "score" : 62.9,
+      "stability" : 0,
+      "tested_at" : "2026-11-22T07:22:23Z",
+      "up_mbps" : 3.73
+    },
+    {
+      "asn" : "",
+      "colo" : "FRA",
+      "delay_ms" : 766.5,
+      "down_mbps" : 3.74,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "31.130.152.102",
+      "isp" : "JSC TIMEWEB",
+      "jitter_ms" : 40.9,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "JSC TIMEWEB",
+      "region" : "KZ",
+      "score" : 59.2,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:22:25Z",
+      "up_mbps" : 4.31
+    },
+    {
+      "asn" : "",
+      "colo" : "FRA",
       "delay_ms" : 617.4,
       "down_mbps" : 7.96,
       "edge" : false,
@@ -79,5 +117,5 @@
   ],
   "provider" : "JSC TIMEWEB",
   "provider_id" : "jsc-timeweb",
-  "updated" : "2026-11-21T22:13:27Z"
+  "updated" : "2026-11-22T08:13:23Z"
 }

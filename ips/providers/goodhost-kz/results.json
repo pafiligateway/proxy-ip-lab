@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "AKX",
+      "delay_ms" : 601.8,
+      "down_mbps" : 2.92,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "185.234.114.165",
+      "isp" : "Goodhost.KZ",
+      "jitter_ms" : 33.8,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Goodhost.KZ",
+      "region" : "KZ",
+      "score" : 62.6,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:22:15Z",
+      "up_mbps" : 3
+    }
+  ],
+  "provider" : "Goodhost.KZ",
+  "provider_id" : "goodhost-kz",
+  "updated" : "2026-11-22T08:13:23Z"
+}

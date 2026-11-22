@@ -18,9 +18,28 @@
       "stability" : 1,
       "tested_at" : "2026-11-21T21:48:00Z",
       "up_mbps" : 5.94
+    },
+    {
+      "asn" : "",
+      "colo" : "VNO",
+      "delay_ms" : 366.8,
+      "down_mbps" : 7.14,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "212.192.23.91",
+      "isp" : "Baxet Group Inc.",
+      "jitter_ms" : 45.3,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Baxet Group Inc.",
+      "region" : "LT",
+      "score" : 72.6,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:17:48Z",
+      "up_mbps" : 6.64
     }
   ],
   "provider" : "Baxet Group Inc.",
   "provider_id" : "baxet-group-inc",
-  "updated" : "2026-11-21T22:13:27Z"
+  "updated" : "2026-11-22T08:13:23Z"
 }

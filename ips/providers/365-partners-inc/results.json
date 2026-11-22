@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "EVN",
+      "delay_ms" : 286.3,
+      "down_mbps" : 4.55,
+      "edge" : false,
+      "grade" : "A-",
+      "ip" : "77.91.68.117",
+      "isp" : "365.partners INC",
+      "jitter_ms" : 18,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "365.partners INC",
+      "region" : "AM",
+      "score" : 76.7,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:20:07Z",
+      "up_mbps" : 10.61
+    },
+    {
+      "asn" : "",
+      "colo" : "EVN",
+      "delay_ms" : 286.6,
+      "down_mbps" : 11.25,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "77.91.68.239",
+      "isp" : "365.partners INC",
+      "jitter_ms" : 83,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "365.partners INC",
+      "region" : "AM",
+      "score" : 74.8,
+      "stability" : 0,
+      "tested_at" : "2026-11-22T07:20:07Z",
+      "up_mbps" : 10.4
+    }
+  ],
+  "provider" : "365.partners INC",
+  "provider_id" : "365-partners-inc",
+  "updated" : "2026-11-22T08:13:23Z"
+}

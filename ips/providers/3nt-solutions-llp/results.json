@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "ALA",
+      "delay_ms" : 772.9,
+      "down_mbps" : 4.8,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "38.180.207.241",
+      "isp" : "3NT SOLUTIONS LLP",
+      "jitter_ms" : 42.1,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "3NT SOLUTIONS LLP",
+      "region" : "KZ",
+      "score" : 58.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:21:38Z",
+      "up_mbps" : 2.56
+    },
+    {
+      "asn" : "",
+      "colo" : "FRA",
+      "delay_ms" : 1001.6,
+      "down_mbps" : 2.91,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "38.180.38.12",
+      "isp" : "3NT SOLUTIONS LLP",
+      "jitter_ms" : 27.3,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "3NT SOLUTIONS LLP",
+      "region" : "KZ",
+      "score" : 52.1,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:22:23Z",
+      "up_mbps" : 2.58
+    }
+  ],
+  "provider" : "3NT SOLUTIONS LLP",
+  "provider_id" : "3nt-solutions-llp",
+  "updated" : "2026-11-22T08:13:23Z"
+}

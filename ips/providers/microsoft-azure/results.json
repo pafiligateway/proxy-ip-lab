@@ -18,9 +18,28 @@
       "stability" : 1,
       "tested_at" : "2026-11-21T21:25:30Z",
       "up_mbps" : 6.78
+    },
+    {
+      "asn" : "",
+      "colo" : "BOM",
+      "delay_ms" : 789.3,
+      "down_mbps" : 3.41,
+      "edge" : false,
+      "grade" : "B-",
+      "ip" : "98.70.26.236",
+      "isp" : "Microsoft Corporation",
+      "jitter_ms" : 17.7,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Microsoft Azure",
+      "region" : "IN",
+      "score" : 59.2,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:35:26Z",
+      "up_mbps" : 2.65
     }
   ],
   "provider" : "Microsoft Azure",
   "provider_id" : "microsoft-azure",
-  "updated" : "2026-11-21T22:13:27Z"
+  "updated" : "2026-11-22T08:13:23Z"
 }

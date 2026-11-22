@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "ICN",
+      "delay_ms" : 1107.5,
+      "down_mbps" : 2.09,
+      "edge" : false,
+      "grade" : "C+",
+      "ip" : "130.94.29.155",
+      "isp" : "LIGHT NODE LIMITED",
+      "jitter_ms" : 7.7,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "LIGHT NODE LIMITED",
+      "region" : "KR",
+      "score" : 49.5,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:31:04Z",
+      "up_mbps" : 1.91
+    }
+  ],
+  "provider" : "LIGHT NODE LIMITED",
+  "provider_id" : "light-node-limited",
+  "updated" : "2026-11-22T08:13:23Z"
+}

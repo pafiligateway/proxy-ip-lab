@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "ARN",
+      "delay_ms" : 336.7,
+      "down_mbps" : 5.34,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "206.168.215.172",
+      "isp" : "DFDB LLC",
+      "jitter_ms" : 29.6,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "DFDB LLC",
+      "region" : "SE",
+      "score" : 73.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T08:05:32Z",
+      "up_mbps" : 6.77
+    }
+  ],
+  "provider" : "DFDB LLC",
+  "provider_id" : "dfdb-llc",
+  "updated" : "2026-11-22T08:13:23Z"
+}

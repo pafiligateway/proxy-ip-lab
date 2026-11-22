@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "VNO",
+      "delay_ms" : 402.4,
+      "down_mbps" : 3.82,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "84.32.149.60",
+      "isp" : "Private Customer",
+      "jitter_ms" : 62.7,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Private Customer",
+      "region" : "LT",
+      "score" : 67.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:17:42Z",
+      "up_mbps" : 5.15
+    }
+  ],
+  "provider" : "Private Customer",
+  "provider_id" : "private-customer",
+  "updated" : "2026-11-22T08:13:23Z"
+}

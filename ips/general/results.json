@@ -116,6 +116,29 @@
       "score" : 77.1
     },
     {
+      "colo" : "EVN",
+      "edge" : false,
+      "ip" : "77.91.68.117",
+      "isp" : "365.partners INC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 286.3,
+          "down_mbps" : 4.55,
+          "jitter_ms" : 18,
+          "loss_pct" : 0,
+          "score" : 76.7,
+          "tested_at" : "2026-11-22T07:20:07Z",
+          "up_mbps" : 10.61
+        }
+      },
+      "port" : 443,
+      "provider" : "365.partners INC",
+      "provider_id" : "365-partners-inc",
+      "region" : "AM",
+      "score" : 76.7
+    },
+    {
       "colo" : "AMS",
       "edge" : false,
       "ip" : "185.6.13.50",
@@ -208,6 +231,29 @@
       "score" : 76.4
     },
     {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "185.190.250.99",
+      "isp" : "Friendhosting LTD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 346.4,
+          "down_mbps" : 7.83,
+          "jitter_ms" : 15.2,
+          "loss_pct" : 0,
+          "score" : 76.3,
+          "tested_at" : "2026-11-22T08:01:58Z",
+          "up_mbps" : 6.84
+        }
+      },
+      "port" : 443,
+      "provider" : "Friendhosting LTD",
+      "provider_id" : "friendhosting-ltd",
+      "region" : "BG",
+      "score" : 76.3
+    },
+    {
       "colo" : "FRA",
       "edge" : false,
       "ip" : "185.205.246.169",
@@ -277,6 +323,52 @@
       "score" : 76
     },
     {
+      "colo" : "EVN",
+      "edge" : false,
+      "ip" : "2.56.204.183",
+      "isp" : "Proitlab LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 284.6,
+          "down_mbps" : 3.1,
+          "jitter_ms" : 8.5,
+          "loss_pct" : 0,
+          "score" : 76,
+          "tested_at" : "2026-11-22T07:20:07Z",
+          "up_mbps" : 9.91
+        }
+      },
+      "port" : 443,
+      "provider" : "Proitlab LLC",
+      "provider_id" : "proitlab-llc",
+      "region" : "AM",
+      "score" : 76
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "91.215.154.88",
+      "isp" : "Friendhosting LTD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 346.6,
+          "down_mbps" : 8.84,
+          "jitter_ms" : 27,
+          "loss_pct" : 0,
+          "score" : 75.8,
+          "tested_at" : "2026-11-22T08:01:58Z",
+          "up_mbps" : 6.79
+        }
+      },
+      "port" : 443,
+      "provider" : "Friendhosting LTD",
+      "provider_id" : "friendhosting-ltd",
+      "region" : "BG",
+      "score" : 75.8
+    },
+    {
       "colo" : "FRA",
       "edge" : false,
       "ip" : "92.205.29.119",
@@ -298,6 +390,29 @@
       "provider_id" : "host-europe-gmbh",
       "region" : "FR",
       "score" : 75.8
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "185.223.253.11",
+      "isp" : "Lir.bg EOOD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 340.3,
+          "down_mbps" : 10.48,
+          "jitter_ms" : 30.4,
+          "loss_pct" : 0,
+          "score" : 75.7,
+          "tested_at" : "2026-11-22T08:01:59Z",
+          "up_mbps" : 5.36
+        }
+      },
+      "port" : 443,
+      "provider" : "Lir.bg EOOD",
+      "provider_id" : "lir-bg-eood",
+      "region" : "BG",
+      "score" : 75.7
     },
     {
       "colo" : "ARN",
@@ -415,6 +530,29 @@
       "score" : 75.5
     },
     {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "217.217.227.132",
+      "isp" : "Lir.bg EOOD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 333.6,
+          "down_mbps" : 8.36,
+          "jitter_ms" : 31.4,
+          "loss_pct" : 0,
+          "score" : 75.5,
+          "tested_at" : "2026-11-22T08:01:50Z",
+          "up_mbps" : 6.58
+        }
+      },
+      "port" : 443,
+      "provider" : "Lir.bg EOOD",
+      "provider_id" : "lir-bg-eood",
+      "region" : "BG",
+      "score" : 75.5
+    },
+    {
       "colo" : "FRA",
       "edge" : false,
       "ip" : "89.208.97.224",
@@ -435,6 +573,29 @@
       "provider" : "Aeza Group LLC",
       "provider_id" : "aeza-group-llc",
       "region" : "FR",
+      "score" : 75.5
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "91.247.37.58",
+      "isp" : "Friendhosting LTD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 325.2,
+          "down_mbps" : 7.31,
+          "jitter_ms" : 28,
+          "loss_pct" : 0,
+          "score" : 75.5,
+          "tested_at" : "2026-11-22T08:01:57Z",
+          "up_mbps" : 6.58
+        }
+      },
+      "port" : 443,
+      "provider" : "Friendhosting LTD",
+      "provider_id" : "friendhosting-ltd",
+      "region" : "BG",
       "score" : 75.5
     },
     {
@@ -509,6 +670,52 @@
     {
       "colo" : "ARN",
       "edge" : false,
+      "ip" : "13.140.10.23",
+      "isp" : "SIA VEESP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 348.6,
+          "down_mbps" : 6.76,
+          "jitter_ms" : 22.3,
+          "loss_pct" : 0,
+          "score" : 74.9,
+          "tested_at" : "2026-11-22T08:05:35Z",
+          "up_mbps" : 6.65
+        }
+      },
+      "port" : 443,
+      "provider" : "SIA VEESP",
+      "provider_id" : "sia-veesp",
+      "region" : "SE",
+      "score" : 74.9
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "185.34.52.147",
+      "isp" : "UAB ESNET",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 353,
+          "down_mbps" : 8.09,
+          "jitter_ms" : 28.5,
+          "loss_pct" : 0,
+          "score" : 74.9,
+          "tested_at" : "2026-11-22T07:17:46Z",
+          "up_mbps" : 6.18
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB ESNET",
+      "provider_id" : "uab-esnet",
+      "region" : "LT",
+      "score" : 74.9
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
       "ip" : "45.90.218.109",
       "isp" : "FIRST SERVER, SOCIEDAD LIMITADA",
       "n_ops" : 1,
@@ -528,6 +735,29 @@
       "provider_id" : "first-server-sociedad-limitada",
       "region" : "RU",
       "score" : 74.9
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "13.140.29.79",
+      "isp" : "Lir.bg EOOD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 348.7,
+          "down_mbps" : 8.55,
+          "jitter_ms" : 37.1,
+          "loss_pct" : 0,
+          "score" : 74.8,
+          "tested_at" : "2026-11-22T08:01:51Z",
+          "up_mbps" : 6.86
+        }
+      },
+      "port" : 443,
+      "provider" : "Lir.bg EOOD",
+      "provider_id" : "lir-bg-eood",
+      "region" : "BG",
+      "score" : 74.8
     },
     {
       "colo" : "LHR",
@@ -622,6 +852,29 @@
       "score" : 74.8
     },
     {
+      "colo" : "EVN",
+      "edge" : false,
+      "ip" : "77.91.68.239",
+      "isp" : "365.partners INC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 286.6,
+          "down_mbps" : 11.25,
+          "jitter_ms" : 83,
+          "loss_pct" : 0,
+          "score" : 74.8,
+          "tested_at" : "2026-11-22T07:20:07Z",
+          "up_mbps" : 10.4
+        }
+      },
+      "port" : 443,
+      "provider" : "365.partners INC",
+      "provider_id" : "365-partners-inc",
+      "region" : "AM",
+      "score" : 74.8
+    },
+    {
       "colo" : "FRA",
       "edge" : false,
       "ip" : "157.173.121.92",
@@ -691,6 +944,29 @@
       "score" : 74.7
     },
     {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "45.82.80.96",
+      "isp" : "Internetport Sweden AB",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 349.5,
+          "down_mbps" : 5.04,
+          "jitter_ms" : 9.8,
+          "loss_pct" : 0,
+          "score" : 74.7,
+          "tested_at" : "2026-11-22T08:05:34Z",
+          "up_mbps" : 5.89
+        }
+      },
+      "port" : 443,
+      "provider" : "Internetport Sweden AB",
+      "provider_id" : "internetport-sweden-ab",
+      "region" : "SE",
+      "score" : 74.7
+    },
+    {
       "colo" : "HEL",
       "edge" : false,
       "ip" : "45.90.218.11",
@@ -712,6 +988,29 @@
       "provider_id" : "first-server-limited",
       "region" : "RU",
       "score" : 74.7
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "91.247.36.168",
+      "isp" : "Friendhosting LTD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 350.8,
+          "down_mbps" : 8.17,
+          "jitter_ms" : 36.7,
+          "loss_pct" : 0,
+          "score" : 74.6,
+          "tested_at" : "2026-11-22T08:01:51Z",
+          "up_mbps" : 6.9
+        }
+      },
+      "port" : 443,
+      "provider" : "Friendhosting LTD",
+      "provider_id" : "friendhosting-ltd",
+      "region" : "BG",
+      "score" : 74.6
     },
     {
       "colo" : "FRA",
@@ -829,6 +1128,29 @@
       "score" : 74
     },
     {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "91.210.166.86",
+      "isp" : "Friendhosting LTD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 354.9,
+          "down_mbps" : 8.6,
+          "jitter_ms" : 44.5,
+          "loss_pct" : 0,
+          "score" : 74,
+          "tested_at" : "2026-11-22T08:01:54Z",
+          "up_mbps" : 6.79
+        }
+      },
+      "port" : 443,
+      "provider" : "Friendhosting LTD",
+      "provider_id" : "friendhosting-ltd",
+      "region" : "BG",
+      "score" : 74
+    },
+    {
       "colo" : "ARN",
       "edge" : false,
       "ip" : "185.128.107.175",
@@ -850,6 +1172,52 @@
       "provider_id" : "first-server-sociedad-limitada",
       "region" : "RU",
       "score" : 73.9
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "206.168.215.172",
+      "isp" : "DFDB LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 336.7,
+          "down_mbps" : 5.34,
+          "jitter_ms" : 29.6,
+          "loss_pct" : 0,
+          "score" : 73.8,
+          "tested_at" : "2026-11-22T08:05:32Z",
+          "up_mbps" : 6.77
+        }
+      },
+      "port" : 443,
+      "provider" : "DFDB LLC",
+      "provider_id" : "dfdb-llc",
+      "region" : "SE",
+      "score" : 73.8
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "94.72.140.210",
+      "isp" : "DA International Group Ltd. - AlphaVPS",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 345.6,
+          "down_mbps" : 6.63,
+          "jitter_ms" : 37.5,
+          "loss_pct" : 0,
+          "score" : 73.8,
+          "tested_at" : "2026-11-22T08:01:57Z",
+          "up_mbps" : 6.87
+        }
+      },
+      "port" : 443,
+      "provider" : "DA International Group Ltd. - AlphaVPS",
+      "provider_id" : "da-international-group-ltd-alphavps",
+      "region" : "BG",
+      "score" : 73.8
     },
     {
       "colo" : "CDG",
@@ -875,6 +1243,29 @@
       "score" : 73.7
     },
     {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "185.80.129.84",
+      "isp" : "UAB ESNET",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 351.3,
+          "down_mbps" : 4.67,
+          "jitter_ms" : 13,
+          "loss_pct" : 0,
+          "score" : 73.6,
+          "tested_at" : "2026-11-22T07:17:43Z",
+          "up_mbps" : 4.69
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB ESNET",
+      "provider_id" : "uab-esnet",
+      "region" : "LT",
+      "score" : 73.6
+    },
+    {
       "colo" : "FRA",
       "edge" : false,
       "ip" : "156.67.26.26",
@@ -895,6 +1286,29 @@
       "provider" : "Contabo",
       "provider_id" : "contabo",
       "region" : "FR",
+      "score" : 73.5
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "185.204.53.58",
+      "isp" : "Virterion LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 335.9,
+          "down_mbps" : 4.08,
+          "jitter_ms" : 10.3,
+          "loss_pct" : 0,
+          "score" : 73.5,
+          "tested_at" : "2026-11-22T08:01:50Z",
+          "up_mbps" : 4.07
+        }
+      },
+      "port" : 443,
+      "provider" : "Virterion LLC",
+      "provider_id" : "virterion-llc",
+      "region" : "BG",
       "score" : 73.5
     },
     {
@@ -1059,6 +1473,29 @@
       "score" : 73.2
     },
     {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "185.223.253.115",
+      "isp" : "DA International Group Ltd.",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 332.5,
+          "down_mbps" : 2.85,
+          "jitter_ms" : 12.6,
+          "loss_pct" : 0,
+          "score" : 73.2,
+          "tested_at" : "2026-11-22T08:01:53Z",
+          "up_mbps" : 6.77
+        }
+      },
+      "port" : 443,
+      "provider" : "DA International Group Ltd.",
+      "provider_id" : "da-international-group-ltd",
+      "region" : "BG",
+      "score" : 73.2
+    },
+    {
       "colo" : "AMS",
       "edge" : false,
       "ip" : "103.249.132.107",
@@ -1149,6 +1586,52 @@
       "provider_id" : "fiba-cloud-operation-company-llc",
       "region" : "TR",
       "score" : 72.8
+    },
+    {
+      "colo" : "EVN",
+      "edge" : false,
+      "ip" : "91.198.108.191",
+      "isp" : "Proitlab LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 240.2,
+          "down_mbps" : 8.59,
+          "jitter_ms" : 106.4,
+          "loss_pct" : 0,
+          "score" : 72.8,
+          "tested_at" : "2026-11-22T07:20:08Z",
+          "up_mbps" : 9.27
+        }
+      },
+      "port" : 443,
+      "provider" : "Proitlab LLC",
+      "provider_id" : "proitlab-llc",
+      "region" : "AM",
+      "score" : 72.8
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "212.192.23.91",
+      "isp" : "Baxet Group Inc.",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 366.8,
+          "down_mbps" : 7.14,
+          "jitter_ms" : 45.3,
+          "loss_pct" : 0,
+          "score" : 72.6,
+          "tested_at" : "2026-11-22T07:17:48Z",
+          "up_mbps" : 6.64
+        }
+      },
+      "port" : 443,
+      "provider" : "Baxet Group Inc.",
+      "provider_id" : "baxet-group-inc",
+      "region" : "LT",
+      "score" : 72.6
     },
     {
       "colo" : "FRA",
@@ -1266,6 +1749,29 @@
       "score" : 72.2
     },
     {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "94.176.234.61",
+      "isp" : "UAB Interneto vizija",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 349.5,
+          "down_mbps" : 7.37,
+          "jitter_ms" : 27.2,
+          "loss_pct" : 0,
+          "score" : 72.2,
+          "tested_at" : "2026-11-22T07:17:43Z",
+          "up_mbps" : 1.66
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB Interneto vizija",
+      "provider_id" : "uab-interneto-vizija",
+      "region" : "LT",
+      "score" : 72.2
+    },
+    {
       "colo" : "FRA",
       "edge" : false,
       "ip" : "201.34.143.40",
@@ -1287,6 +1793,29 @@
       "provider_id" : "jsc-timeweb",
       "region" : "RU",
       "score" : 71.9
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "91.215.154.96",
+      "isp" : "Friendhosting LTD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 329,
+          "down_mbps" : 2.45,
+          "jitter_ms" : 25.7,
+          "loss_pct" : 0,
+          "score" : 71.8,
+          "tested_at" : "2026-11-22T08:01:50Z",
+          "up_mbps" : 6.88
+        }
+      },
+      "port" : 443,
+      "provider" : "Friendhosting LTD",
+      "provider_id" : "friendhosting-ltd",
+      "region" : "BG",
+      "score" : 71.8
     },
     {
       "colo" : "FRA",
@@ -1358,6 +1887,29 @@
       "score" : 71.7
     },
     {
+      "colo" : "OSL",
+      "edge" : false,
+      "ip" : "80.78.27.56",
+      "isp" : "Materialism s.r.l.",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 390.4,
+          "down_mbps" : 3.85,
+          "jitter_ms" : 26,
+          "loss_pct" : 0,
+          "score" : 71.7,
+          "tested_at" : "2026-11-22T08:05:30Z",
+          "up_mbps" : 7.05
+        }
+      },
+      "port" : 443,
+      "provider" : "Materialism s.r.l.",
+      "provider_id" : "materialism-s-r-l",
+      "region" : "SE",
+      "score" : 71.7
+    },
+    {
       "colo" : "FRA",
       "edge" : false,
       "ip" : "138.124.38.41",
@@ -1404,6 +1956,75 @@
       "score" : 71.6
     },
     {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "195.238.126.150",
+      "isp" : "Melbikomas UAB",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 342.6,
+          "down_mbps" : 1.31,
+          "jitter_ms" : 0.6,
+          "loss_pct" : 0,
+          "score" : 71.5,
+          "tested_at" : "2026-11-22T07:17:48Z",
+          "up_mbps" : 6.15
+        }
+      },
+      "port" : 443,
+      "provider" : "Melbikomas UAB",
+      "provider_id" : "melbikomas-uab",
+      "region" : "LT",
+      "score" : 71.5
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "91.215.153.52",
+      "isp" : "Friendhosting LTD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 328,
+          "down_mbps" : 2.17,
+          "jitter_ms" : 22.4,
+          "loss_pct" : 0,
+          "score" : 71.5,
+          "tested_at" : "2026-11-22T08:01:56Z",
+          "up_mbps" : 6.17
+        }
+      },
+      "port" : 443,
+      "provider" : "Friendhosting LTD",
+      "provider_id" : "friendhosting-ltd",
+      "region" : "BG",
+      "score" : 71.5
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "148.253.211.16",
+      "isp" : "SEBEK sp. z o.o",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 441.9,
+          "down_mbps" : 5.78,
+          "jitter_ms" : 29.1,
+          "loss_pct" : 0,
+          "score" : 70.9,
+          "tested_at" : "2026-11-22T08:05:49Z",
+          "up_mbps" : 5.39
+        }
+      },
+      "port" : 443,
+      "provider" : "SEBEK sp. z o.o",
+      "provider_id" : "sebek-sp-z-o-o",
+      "region" : "SE",
+      "score" : 70.9
+    },
+    {
       "colo" : "ARN",
       "edge" : false,
       "ip" : "185.185.71.66",
@@ -1427,6 +2048,259 @@
       "score" : 70.9
     },
     {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "85.206.161.198",
+      "isp" : "Pirma alokacija",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 351.6,
+          "down_mbps" : 1.53,
+          "jitter_ms" : 13.9,
+          "loss_pct" : 0,
+          "score" : 70.9,
+          "tested_at" : "2026-11-22T07:17:40Z",
+          "up_mbps" : 6.85
+        }
+      },
+      "port" : 443,
+      "provider" : "Pirma alokacija",
+      "provider_id" : "pirma-alokacija",
+      "region" : "LT",
+      "score" : 70.9
+    },
+    {
+      "colo" : "TLL",
+      "edge" : false,
+      "ip" : "89.22.236.205",
+      "isp" : "AEZA GROUP LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 451.5,
+          "down_mbps" : 5.03,
+          "jitter_ms" : 23.3,
+          "loss_pct" : 0,
+          "score" : 70.8,
+          "tested_at" : "2026-11-22T08:05:47Z",
+          "up_mbps" : 5.86
+        }
+      },
+      "port" : 443,
+      "provider" : "AEZA GROUP LLC",
+      "provider_id" : "aeza-group-llc",
+      "region" : "SE",
+      "score" : 70.8
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "2.27.105.199",
+      "isp" : "NetGrid Host LTD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 450.8,
+          "down_mbps" : 4.93,
+          "jitter_ms" : 22.5,
+          "loss_pct" : 0,
+          "score" : 70.7,
+          "tested_at" : "2026-11-22T08:01:55Z",
+          "up_mbps" : 5.51
+        }
+      },
+      "port" : 443,
+      "provider" : "NetGrid Host LTD",
+      "provider_id" : "netgrid-host-ltd",
+      "region" : "BG",
+      "score" : 70.7
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "70.34.194.199",
+      "isp" : "Vultr Sweden",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 372.9,
+          "down_mbps" : 4.59,
+          "jitter_ms" : 13,
+          "loss_pct" : 0,
+          "score" : 70.7,
+          "tested_at" : "2026-11-22T08:05:31Z",
+          "up_mbps" : 1.38
+        }
+      },
+      "port" : 443,
+      "provider" : "Vultr",
+      "provider_id" : "vultr",
+      "region" : "SE",
+      "score" : 70.7
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "5.175.236.54",
+      "isp" : "Switzerland infrastructure",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 364.7,
+          "down_mbps" : 3.87,
+          "jitter_ms" : 47,
+          "loss_pct" : 0,
+          "score" : 70.6,
+          "tested_at" : "2026-11-22T08:05:32Z",
+          "up_mbps" : 6.8
+        }
+      },
+      "port" : 443,
+      "provider" : "Switzerland infrastructure",
+      "provider_id" : "switzerland-infrastructure",
+      "region" : "SE",
+      "score" : 70.6
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "91.215.152.98",
+      "isp" : "Friendhosting LTD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 347.4,
+          "down_mbps" : 1.81,
+          "jitter_ms" : 25,
+          "loss_pct" : 0,
+          "score" : 70.5,
+          "tested_at" : "2026-11-22T08:01:56Z",
+          "up_mbps" : 6.78
+        }
+      },
+      "port" : 443,
+      "provider" : "Friendhosting LTD",
+      "provider_id" : "friendhosting-ltd",
+      "region" : "BG",
+      "score" : 70.5
+    },
+    {
+      "colo" : "OSL",
+      "edge" : false,
+      "ip" : "45.142.141.242",
+      "isp" : "Materialism s.r.l.",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 385.5,
+          "down_mbps" : 5.03,
+          "jitter_ms" : 19.2,
+          "loss_pct" : 0,
+          "score" : 70.3,
+          "tested_at" : "2026-11-22T08:05:34Z",
+          "up_mbps" : 1.56
+        }
+      },
+      "port" : 443,
+      "provider" : "Materialism s.r.l.",
+      "provider_id" : "materialism-s-r-l",
+      "region" : "SE",
+      "score" : 70.3
+    },
+    {
+      "colo" : "OSL",
+      "edge" : false,
+      "ip" : "80.78.22.178",
+      "isp" : "Materialism s.r.l.",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 384.7,
+          "down_mbps" : 5.75,
+          "jitter_ms" : 24,
+          "loss_pct" : 0,
+          "score" : 70.3,
+          "tested_at" : "2026-11-22T08:05:36Z",
+          "up_mbps" : 1.43
+        }
+      },
+      "port" : 443,
+      "provider" : "Materialism s.r.l.",
+      "provider_id" : "materialism-s-r-l",
+      "region" : "SE",
+      "score" : 70.3
+    },
+    {
+      "colo" : "EVN",
+      "edge" : false,
+      "ip" : "2.56.204.246",
+      "isp" : "Proitlab LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 315.9,
+          "down_mbps" : 2.42,
+          "jitter_ms" : 60,
+          "loss_pct" : 0,
+          "score" : 70.2,
+          "tested_at" : "2026-11-22T07:20:07Z",
+          "up_mbps" : 10.04
+        }
+      },
+      "port" : 443,
+      "provider" : "Proitlab LLC",
+      "provider_id" : "proitlab-llc",
+      "region" : "AM",
+      "score" : 70.2
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "82.118.235.14",
+      "isp" : "Lir.bg EOOD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 359.3,
+          "down_mbps" : 3.07,
+          "jitter_ms" : 43.5,
+          "loss_pct" : 0,
+          "score" : 70.1,
+          "tested_at" : "2026-11-22T08:01:53Z",
+          "up_mbps" : 6.85
+        }
+      },
+      "port" : 443,
+      "provider" : "Lir.bg EOOD",
+      "provider_id" : "lir-bg-eood",
+      "region" : "BG",
+      "score" : 70.1
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "185.223.252.175",
+      "isp" : "Lir.bg EOOD",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 375.6,
+          "down_mbps" : 6.71,
+          "jitter_ms" : 75.7,
+          "loss_pct" : 0,
+          "score" : 70,
+          "tested_at" : "2026-11-22T08:01:52Z",
+          "up_mbps" : 6.87
+        }
+      },
+      "port" : 443,
+      "provider" : "Lir.bg EOOD",
+      "provider_id" : "lir-bg-eood",
+      "region" : "BG",
+      "score" : 70
+    },
+    {
       "colo" : "AMS",
       "edge" : false,
       "ip" : "178.157.15.73",
@@ -1448,6 +2322,98 @@
       "provider_id" : "cizgi-telekomunikasyon-anonim-sirketi",
       "region" : "TR",
       "score" : 69.8
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "85.206.161.208",
+      "isp" : "Pirma alokacija",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 416.2,
+          "down_mbps" : 7.2,
+          "jitter_ms" : 69.7,
+          "loss_pct" : 0,
+          "score" : 69.6,
+          "tested_at" : "2026-11-22T07:17:42Z",
+          "up_mbps" : 6.73
+        }
+      },
+      "port" : 443,
+      "provider" : "Pirma alokacija",
+      "provider_id" : "pirma-alokacija",
+      "region" : "LT",
+      "score" : 69.6
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "195.238.126.156",
+      "isp" : "Melbikomas UAB",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 388.8,
+          "down_mbps" : 5.1,
+          "jitter_ms" : 60.2,
+          "loss_pct" : 0,
+          "score" : 69.5,
+          "tested_at" : "2026-11-22T07:17:46Z",
+          "up_mbps" : 6.62
+        }
+      },
+      "port" : 443,
+      "provider" : "Melbikomas UAB",
+      "provider_id" : "melbikomas-uab",
+      "region" : "LT",
+      "score" : 69.5
+    },
+    {
+      "colo" : "WAW",
+      "edge" : false,
+      "ip" : "130.12.171.63",
+      "isp" : "SOLID Lithuania",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 481.3,
+          "down_mbps" : 5.8,
+          "jitter_ms" : 30.5,
+          "loss_pct" : 0,
+          "score" : 69.4,
+          "tested_at" : "2026-11-22T07:17:40Z",
+          "up_mbps" : 4.72
+        }
+      },
+      "port" : 443,
+      "provider" : "SOLID Lithuania",
+      "provider_id" : "solid-lithuania",
+      "region" : "LT",
+      "score" : 69.4
+    },
+    {
+      "colo" : "SOF",
+      "edge" : false,
+      "ip" : "217.217.227.201",
+      "isp" : "TerraTransit AG",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 351.1,
+          "down_mbps" : 3.04,
+          "jitter_ms" : 44.1,
+          "loss_pct" : 0,
+          "score" : 69.4,
+          "tested_at" : "2026-11-22T08:01:56Z",
+          "up_mbps" : 4.46
+        }
+      },
+      "port" : 443,
+      "provider" : "TerraTransit AG",
+      "provider_id" : "terratransit-ag",
+      "region" : "BG",
+      "score" : 69.4
     },
     {
       "colo" : "FRA",
@@ -1496,6 +2462,121 @@
       "score" : 69.2
     },
     {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "185.80.128.20",
+      "isp" : "UAB ESNET",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 376.4,
+          "down_mbps" : 1.82,
+          "jitter_ms" : 31.5,
+          "loss_pct" : 0,
+          "score" : 69,
+          "tested_at" : "2026-11-22T07:17:46Z",
+          "up_mbps" : 6.74
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB ESNET",
+      "provider_id" : "uab-esnet",
+      "region" : "LT",
+      "score" : 69
+    },
+    {
+      "colo" : "BEG",
+      "edge" : false,
+      "ip" : "185.105.108.43",
+      "isp" : "Majordomo in Serbia",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 445.2,
+          "down_mbps" : 5.7,
+          "jitter_ms" : 28.4,
+          "loss_pct" : 0,
+          "score" : 68.9,
+          "tested_at" : "2026-11-22T07:25:03Z",
+          "up_mbps" : 1.92
+        }
+      },
+      "port" : 443,
+      "provider" : "Majordomo in Serbia",
+      "provider_id" : "majordomo-in-serbia",
+      "region" : "RS",
+      "score" : 68.9
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "62.77.155.16",
+      "isp" : "UAB Interneto vizija",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 388.2,
+          "down_mbps" : 5.02,
+          "jitter_ms" : 72.3,
+          "loss_pct" : 0,
+          "score" : 68.8,
+          "tested_at" : "2026-11-22T07:17:45Z",
+          "up_mbps" : 6.7
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB Interneto vizija",
+      "provider_id" : "uab-interneto-vizija",
+      "region" : "LT",
+      "score" : 68.8
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "195.238.126.11",
+      "isp" : "Melbikomas UAB",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 411.7,
+          "down_mbps" : 3.36,
+          "jitter_ms" : 42.3,
+          "loss_pct" : 0,
+          "score" : 68.6,
+          "tested_at" : "2026-11-22T07:17:42Z",
+          "up_mbps" : 4.82
+        }
+      },
+      "port" : 443,
+      "provider" : "Melbikomas UAB",
+      "provider_id" : "melbikomas-uab",
+      "region" : "LT",
+      "score" : 68.6
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "62.182.195.169",
+      "isp" : "SIA VEESP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 348.6,
+          "down_mbps" : 2.78,
+          "jitter_ms" : 27.2,
+          "loss_pct" : 0,
+          "score" : 68.5,
+          "tested_at" : "2026-11-22T08:05:37Z",
+          "up_mbps" : 1.38
+        }
+      },
+      "port" : 443,
+      "provider" : "SIA VEESP",
+      "provider_id" : "sia-veesp",
+      "region" : "SE",
+      "score" : 68.5
+    },
+    {
       "colo" : "FRA",
       "edge" : false,
       "ip" : "212.116.115.69",
@@ -1519,6 +2600,167 @@
       "score" : 68.4
     },
     {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "188.190.3.42",
+      "isp" : "EDIS IPv6 Infrastructure in Lithuania",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 442.1,
+          "down_mbps" : 4.58,
+          "jitter_ms" : 50.8,
+          "loss_pct" : 0,
+          "score" : 68.3,
+          "tested_at" : "2026-11-22T07:17:42Z",
+          "up_mbps" : 5.36
+        }
+      },
+      "port" : 443,
+      "provider" : "EDIS IPv6 Infrastructure in Lithuania",
+      "provider_id" : "edis-ipv6-infrastructure-in-lithuania",
+      "region" : "LT",
+      "score" : 68.3
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "5.199.173.195",
+      "isp" : "UAB Cherry Servers",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 486,
+          "down_mbps" : 5.66,
+          "jitter_ms" : 50.5,
+          "loss_pct" : 0,
+          "score" : 68.2,
+          "tested_at" : "2026-11-22T07:17:44Z",
+          "up_mbps" : 6.11
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB Cherry Servers",
+      "provider_id" : "uab-cherry-servers",
+      "region" : "LT",
+      "score" : 68.2
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "85.206.161.200",
+      "isp" : "Pirma alokacija",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 398.1,
+          "down_mbps" : 7.16,
+          "jitter_ms" : 89,
+          "loss_pct" : 0,
+          "score" : 68.1,
+          "tested_at" : "2026-11-22T07:17:44Z",
+          "up_mbps" : 5.57
+        }
+      },
+      "port" : 443,
+      "provider" : "Pirma alokacija",
+      "provider_id" : "pirma-alokacija",
+      "region" : "LT",
+      "score" : 68.1
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "85.206.161.209",
+      "isp" : "Pirma alokacija",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 417,
+          "down_mbps" : 7.1,
+          "jitter_ms" : 90.2,
+          "loss_pct" : 0,
+          "score" : 68.1,
+          "tested_at" : "2026-11-22T07:17:40Z",
+          "up_mbps" : 6.8
+        }
+      },
+      "port" : 443,
+      "provider" : "Pirma alokacija",
+      "provider_id" : "pirma-alokacija",
+      "region" : "LT",
+      "score" : 68.1
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "51.21.156.13",
+      "isp" : "A100 ROW Inc",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 569.9,
+          "down_mbps" : 7.25,
+          "jitter_ms" : 11.8,
+          "loss_pct" : 0,
+          "score" : 67.8,
+          "tested_at" : "2026-11-22T08:05:33Z",
+          "up_mbps" : 1.92
+        }
+      },
+      "port" : 443,
+      "provider" : "A100 ROW Inc",
+      "provider_id" : "a100-row-inc",
+      "region" : "SE",
+      "score" : 67.8
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "84.32.149.60",
+      "isp" : "Private Customer",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 402.4,
+          "down_mbps" : 3.82,
+          "jitter_ms" : 62.7,
+          "loss_pct" : 0,
+          "score" : 67.8,
+          "tested_at" : "2026-11-22T07:17:42Z",
+          "up_mbps" : 5.15
+        }
+      },
+      "port" : 443,
+      "provider" : "Private Customer",
+      "provider_id" : "private-customer",
+      "region" : "LT",
+      "score" : 67.8
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "185.34.52.197",
+      "isp" : "UAB ESNET",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 380.8,
+          "down_mbps" : 3.57,
+          "jitter_ms" : 73.3,
+          "loss_pct" : 0,
+          "score" : 67.6,
+          "tested_at" : "2026-11-22T07:17:44Z",
+          "up_mbps" : 7.12
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB ESNET",
+      "provider_id" : "uab-esnet",
+      "region" : "LT",
+      "score" : 67.6
+    },
+    {
       "colo" : "WAW",
       "edge" : false,
       "ip" : "95.164.93.114",
@@ -1540,6 +2782,121 @@
       "provider_id" : "netassist-limited",
       "region" : "DE",
       "score" : 67.5
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "212.147.224.250",
+      "isp" : "UpCloud Cloud Servers",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 416.5,
+          "down_mbps" : 5.16,
+          "jitter_ms" : 77.9,
+          "loss_pct" : 0,
+          "score" : 67.3,
+          "tested_at" : "2026-11-22T08:05:38Z",
+          "up_mbps" : 5.56
+        }
+      },
+      "port" : 443,
+      "provider" : "UpCloud Cloud Servers",
+      "provider_id" : "upcloud-cloud-servers",
+      "region" : "SE",
+      "score" : 67.3
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "46.249.103.50",
+      "isp" : "Deployish Limited",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 469.2,
+          "down_mbps" : 2.93,
+          "jitter_ms" : 30.9,
+          "loss_pct" : 0,
+          "score" : 66.9,
+          "tested_at" : "2026-11-22T08:05:46Z",
+          "up_mbps" : 3.6
+        }
+      },
+      "port" : 443,
+      "provider" : "Deployish Limited",
+      "provider_id" : "deployish-limited",
+      "region" : "SE",
+      "score" : 66.9
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "185.130.46.91",
+      "isp" : "Privex Sweden General Customers",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 442.1,
+          "down_mbps" : 1.62,
+          "jitter_ms" : 29.5,
+          "loss_pct" : 0,
+          "score" : 66.8,
+          "tested_at" : "2026-11-22T08:05:35Z",
+          "up_mbps" : 5.52
+        }
+      },
+      "port" : 443,
+      "provider" : "Privex Sweden General Customers",
+      "provider_id" : "privex-sweden-general-customers",
+      "region" : "SE",
+      "score" : 66.8
+    },
+    {
+      "colo" : "HEL",
+      "edge" : false,
+      "ip" : "193.188.22.207",
+      "isp" : "AEZA GROUP LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 592.2,
+          "down_mbps" : 2.98,
+          "jitter_ms" : 5.4,
+          "loss_pct" : 0,
+          "score" : 66.8,
+          "tested_at" : "2026-11-22T08:05:52Z",
+          "up_mbps" : 6.21
+        }
+      },
+      "port" : 443,
+      "provider" : "AEZA GROUP LLC",
+      "provider_id" : "aeza-group-llc",
+      "region" : "SE",
+      "score" : 66.8
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "5.175.236.4",
+      "isp" : "Switzerland infrastructure",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 402,
+          "down_mbps" : 6.74,
+          "jitter_ms" : 105.1,
+          "loss_pct" : 0,
+          "score" : 66.7,
+          "tested_at" : "2026-11-22T08:05:39Z",
+          "up_mbps" : 6.81
+        }
+      },
+      "port" : 443,
+      "provider" : "Switzerland infrastructure",
+      "provider_id" : "switzerland-infrastructure",
+      "region" : "SE",
+      "score" : 66.7
     },
     {
       "colo" : "FRA",
@@ -1586,6 +2943,52 @@
       "provider_id" : "centrilogiccanada",
       "region" : "CA",
       "score" : 66.3
+    },
+    {
+      "colo" : "FRA",
+      "edge" : false,
+      "ip" : "45.93.137.149",
+      "isp" : "Hostinger Operations UAB",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 455.6,
+          "down_mbps" : 3.79,
+          "jitter_ms" : 30.6,
+          "loss_pct" : 0,
+          "score" : 66.2,
+          "tested_at" : "2026-11-22T07:17:48Z",
+          "up_mbps" : 1.27
+        }
+      },
+      "port" : 443,
+      "provider" : "Hostinger",
+      "provider_id" : "hostinger",
+      "region" : "LT",
+      "score" : 66.2
+    },
+    {
+      "colo" : "WAW",
+      "edge" : false,
+      "ip" : "93.115.25.111",
+      "isp" : "UAB Cherry Servers",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 429.6,
+          "down_mbps" : 5.75,
+          "jitter_ms" : 90.8,
+          "loss_pct" : 0,
+          "score" : 66.1,
+          "tested_at" : "2026-11-22T07:17:45Z",
+          "up_mbps" : 5.82
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB Cherry Servers",
+      "provider_id" : "uab-cherry-servers",
+      "region" : "LT",
+      "score" : 66.1
     },
     {
       "colo" : "FRA",
@@ -1703,6 +3106,29 @@
       "score" : 65.1
     },
     {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "80.209.231.51",
+      "isp" : "UAB Interneto vizija",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 384.2,
+          "down_mbps" : 3.93,
+          "jitter_ms" : 76.2,
+          "loss_pct" : 0,
+          "score" : 65.1,
+          "tested_at" : "2026-11-22T07:17:47Z",
+          "up_mbps" : 1.58
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB Interneto vizija",
+      "provider_id" : "uab-interneto-vizija",
+      "region" : "LT",
+      "score" : 65.1
+    },
+    {
       "colo" : "AMS",
       "edge" : false,
       "ip" : "130.12.46.23",
@@ -1747,6 +3173,52 @@
       "provider_id" : "fornex-hosting-s-l",
       "region" : "DE",
       "score" : 65
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "162.254.86.41",
+      "isp" : "Hosteroid - Vilnus",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 419,
+          "down_mbps" : 4.28,
+          "jitter_ms" : 101.5,
+          "loss_pct" : 0,
+          "score" : 64.9,
+          "tested_at" : "2026-11-22T07:17:43Z",
+          "up_mbps" : 6.26
+        }
+      },
+      "port" : 443,
+      "provider" : "Hosteroid - Vilnus",
+      "provider_id" : "hosteroid-vilnus",
+      "region" : "LT",
+      "score" : 64.9
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "51.20.160.11",
+      "isp" : "A100 ROW Inc",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 538.6,
+          "down_mbps" : 7.14,
+          "jitter_ms" : 60.1,
+          "loss_pct" : 0,
+          "score" : 64.8,
+          "tested_at" : "2026-11-22T08:05:59Z",
+          "up_mbps" : 2.26
+        }
+      },
+      "port" : 443,
+      "provider" : "A100 ROW Inc",
+      "provider_id" : "a100-row-inc",
+      "region" : "SE",
+      "score" : 64.8
     },
     {
       "colo" : "YYZ",
@@ -1887,6 +3359,75 @@
       "score" : 63.2
     },
     {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "62.182.195.6",
+      "isp" : "SIA VEESP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 379.5,
+          "down_mbps" : 3.07,
+          "jitter_ms" : 124.8,
+          "loss_pct" : 0,
+          "score" : 63.2,
+          "tested_at" : "2026-11-22T08:05:51Z",
+          "up_mbps" : 6.95
+        }
+      },
+      "port" : 443,
+      "provider" : "SIA VEESP",
+      "provider_id" : "sia-veesp",
+      "region" : "SE",
+      "score" : 63.2
+    },
+    {
+      "colo" : "AKX",
+      "edge" : false,
+      "ip" : "109.248.18.161",
+      "isp" : "LLP Internet Company First Page",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 666.2,
+          "down_mbps" : 4.97,
+          "jitter_ms" : 40.9,
+          "loss_pct" : 0,
+          "score" : 62.9,
+          "tested_at" : "2026-11-22T07:21:59Z",
+          "up_mbps" : 4.07
+        }
+      },
+      "port" : 443,
+      "provider" : "LLP Internet Company First Page",
+      "provider_id" : "llp-internet-company-first-page",
+      "region" : "KZ",
+      "score" : 62.9
+    },
+    {
+      "colo" : "FRA",
+      "edge" : false,
+      "ip" : "80.90.182.102",
+      "isp" : "JSC TIMEWEB",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 756.2,
+          "down_mbps" : 4.78,
+          "jitter_ms" : 6.4,
+          "loss_pct" : 0,
+          "score" : 62.9,
+          "tested_at" : "2026-11-22T07:22:23Z",
+          "up_mbps" : 3.73
+        }
+      },
+      "port" : 443,
+      "provider" : "JSC TIMEWEB",
+      "provider_id" : "jsc-timeweb",
+      "region" : "KZ",
+      "score" : 62.9
+    },
+    {
       "colo" : "FRA",
       "edge" : false,
       "ip" : "193.37.71.95",
@@ -1908,6 +3449,29 @@
       "provider_id" : "nuxtcloud",
       "region" : "RU",
       "score" : 62.8
+    },
+    {
+      "colo" : "AKX",
+      "edge" : false,
+      "ip" : "185.234.114.165",
+      "isp" : "Goodhost.KZ",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 601.8,
+          "down_mbps" : 2.92,
+          "jitter_ms" : 33.8,
+          "loss_pct" : 0,
+          "score" : 62.6,
+          "tested_at" : "2026-11-22T07:22:15Z",
+          "up_mbps" : 3
+        }
+      },
+      "port" : 443,
+      "provider" : "Goodhost.KZ",
+      "provider_id" : "goodhost-kz",
+      "region" : "KZ",
+      "score" : 62.6
     },
     {
       "colo" : "FRA",
@@ -1977,6 +3541,29 @@
       "provider_id" : "first-server-sociedad-limitada",
       "region" : "RU",
       "score" : 62.4
+    },
+    {
+      "colo" : "AKX",
+      "edge" : false,
+      "ip" : "109.248.18.169",
+      "isp" : "LLP Internet Company First Page",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 676.8,
+          "down_mbps" : 4.5,
+          "jitter_ms" : 38,
+          "loss_pct" : 0,
+          "score" : 62.3,
+          "tested_at" : "2026-11-22T07:21:46Z",
+          "up_mbps" : 3.98
+        }
+      },
+      "port" : 443,
+      "provider" : "LLP Internet Company First Page",
+      "provider_id" : "llp-internet-company-first-page",
+      "region" : "KZ",
+      "score" : 62.3
     },
     {
       "colo" : "VIE",
@@ -2117,6 +3704,29 @@
       "score" : 61.6
     },
     {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "213.155.20.81",
+      "isp" : "PS Internet Company LLP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 718.6,
+          "down_mbps" : 2.03,
+          "jitter_ms" : 6.1,
+          "loss_pct" : 0,
+          "score" : 61.4,
+          "tested_at" : "2026-11-22T07:21:54Z",
+          "up_mbps" : 4.27
+        }
+      },
+      "port" : 443,
+      "provider" : "PS Internet Company LLP",
+      "provider_id" : "ps-internet-company-llp",
+      "region" : "KZ",
+      "score" : 61.4
+    },
+    {
       "colo" : "PDX",
       "edge" : false,
       "ip" : "35.89.243.2",
@@ -2161,6 +3771,29 @@
       "provider_id" : "vultr",
       "region" : "US",
       "score" : 61.2
+    },
+    {
+      "colo" : "AKX",
+      "edge" : false,
+      "ip" : "213.155.29.229",
+      "isp" : "3HCLOUD LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 624.9,
+          "down_mbps" : 1.46,
+          "jitter_ms" : 27.9,
+          "loss_pct" : 0,
+          "score" : 61.1,
+          "tested_at" : "2026-11-22T07:22:23Z",
+          "up_mbps" : 4.13
+        }
+      },
+      "port" : 443,
+      "provider" : "3HCLOUD LLC",
+      "provider_id" : "3hcloud-llc",
+      "region" : "KZ",
+      "score" : 61.1
     },
     {
       "colo" : "DFW",
@@ -2209,6 +3842,29 @@
       "score" : 60.7
     },
     {
+      "colo" : "AKX",
+      "edge" : false,
+      "ip" : "91.224.74.14",
+      "isp" : "3HCLOUD LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 723.1,
+          "down_mbps" : 4.58,
+          "jitter_ms" : 44.9,
+          "loss_pct" : 0,
+          "score" : 60.7,
+          "tested_at" : "2026-11-22T07:22:17Z",
+          "up_mbps" : 4.12
+        }
+      },
+      "port" : 443,
+      "provider" : "3HCLOUD LLC",
+      "provider_id" : "3hcloud-llc",
+      "region" : "KZ",
+      "score" : 60.7
+    },
+    {
       "colo" : "YYZ",
       "edge" : false,
       "ip" : "155.138.128.135",
@@ -2230,6 +3886,29 @@
       "provider_id" : "vultr",
       "region" : "CA",
       "score" : 60.6
+    },
+    {
+      "colo" : "BEG",
+      "edge" : false,
+      "ip" : "185.48.250.175",
+      "isp" : "eServer Serbia",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 499.9,
+          "down_mbps" : 5.01,
+          "jitter_ms" : 126.7,
+          "loss_pct" : 0,
+          "score" : 60.5,
+          "tested_at" : "2026-11-22T07:25:03Z",
+          "up_mbps" : 4.11
+        }
+      },
+      "port" : 443,
+      "provider" : "eServer Serbia",
+      "provider_id" : "eserver-serbia",
+      "region" : "RS",
+      "score" : 60.5
     },
     {
       "colo" : "SJC",
@@ -2301,6 +3980,29 @@
       "score" : 59.8
     },
     {
+      "colo" : "AKX",
+      "edge" : false,
+      "ip" : "109.248.18.77",
+      "isp" : "LLP Internet Company First Page",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 679.6,
+          "down_mbps" : 4.85,
+          "jitter_ms" : 66,
+          "loss_pct" : 0,
+          "score" : 59.7,
+          "tested_at" : "2026-11-22T07:21:58Z",
+          "up_mbps" : 2.91
+        }
+      },
+      "port" : 443,
+      "provider" : "LLP Internet Company First Page",
+      "provider_id" : "llp-internet-company-first-page",
+      "region" : "KZ",
+      "score" : 59.7
+    },
+    {
       "colo" : "HKG",
       "edge" : false,
       "ip" : "45.221.112.39",
@@ -2370,6 +4072,121 @@
       "score" : 59.4
     },
     {
+      "colo" : "AKX",
+      "edge" : false,
+      "ip" : "213.155.29.228",
+      "isp" : "3HCLOUD LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 614.9,
+          "down_mbps" : 0.65,
+          "jitter_ms" : 32.4,
+          "loss_pct" : 0,
+          "score" : 59.3,
+          "tested_at" : "2026-11-22T07:21:43Z",
+          "up_mbps" : 4.09
+        }
+      },
+      "port" : 443,
+      "provider" : "3HCLOUD LLC",
+      "provider_id" : "3hcloud-llc",
+      "region" : "KZ",
+      "score" : 59.3
+    },
+    {
+      "colo" : "FRA",
+      "edge" : false,
+      "ip" : "31.130.152.102",
+      "isp" : "JSC TIMEWEB",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 766.5,
+          "down_mbps" : 3.74,
+          "jitter_ms" : 40.9,
+          "loss_pct" : 0,
+          "score" : 59.2,
+          "tested_at" : "2026-11-22T07:22:25Z",
+          "up_mbps" : 4.31
+        }
+      },
+      "port" : 443,
+      "provider" : "JSC TIMEWEB",
+      "provider_id" : "jsc-timeweb",
+      "region" : "KZ",
+      "score" : 59.2
+    },
+    {
+      "colo" : "BOM",
+      "edge" : false,
+      "ip" : "65.20.80.121",
+      "isp" : "The Constant Company, LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 697.9,
+          "down_mbps" : 3.1,
+          "jitter_ms" : 46.4,
+          "loss_pct" : 0,
+          "score" : 59.2,
+          "tested_at" : "2026-11-22T07:35:29Z",
+          "up_mbps" : 2.85
+        }
+      },
+      "port" : 443,
+      "provider" : "Vultr",
+      "provider_id" : "vultr",
+      "region" : "IN",
+      "score" : 59.2
+    },
+    {
+      "colo" : "BOM",
+      "edge" : false,
+      "ip" : "98.70.26.236",
+      "isp" : "Microsoft Corporation",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 789.3,
+          "down_mbps" : 3.41,
+          "jitter_ms" : 17.7,
+          "loss_pct" : 0,
+          "score" : 59.2,
+          "tested_at" : "2026-11-22T07:35:26Z",
+          "up_mbps" : 2.65
+        }
+      },
+      "port" : 443,
+      "provider" : "Microsoft Azure",
+      "provider_id" : "microsoft-azure",
+      "region" : "IN",
+      "score" : 59.2
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "185.22.64.16",
+      "isp" : "PS Internet Company LLP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 749.7,
+          "down_mbps" : 3.65,
+          "jitter_ms" : 46.5,
+          "loss_pct" : 0,
+          "score" : 59.1,
+          "tested_at" : "2026-11-22T07:21:51Z",
+          "up_mbps" : 4.39
+        }
+      },
+      "port" : 443,
+      "provider" : "PS Internet Company LLP",
+      "provider_id" : "ps-internet-company-llp",
+      "region" : "KZ",
+      "score" : 59.1
+    },
+    {
       "colo" : "YYZ",
       "edge" : false,
       "ip" : "216.128.176.190",
@@ -2391,6 +4208,121 @@
       "provider_id" : "vultr",
       "region" : "CA",
       "score" : 59.1
+    },
+    {
+      "colo" : "AKX",
+      "edge" : false,
+      "ip" : "213.155.13.192",
+      "isp" : "3HCLOUD LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 642.8,
+          "down_mbps" : 3.88,
+          "jitter_ms" : 81.4,
+          "loss_pct" : 0,
+          "score" : 58.9,
+          "tested_at" : "2026-11-22T07:21:52Z",
+          "up_mbps" : 4.14
+        }
+      },
+      "port" : 443,
+      "provider" : "3HCLOUD LLC",
+      "provider_id" : "3hcloud-llc",
+      "region" : "KZ",
+      "score" : 58.9
+    },
+    {
+      "colo" : "BOM",
+      "edge" : false,
+      "ip" : "65.20.87.219",
+      "isp" : "The Constant Company, LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 737.7,
+          "down_mbps" : 2.79,
+          "jitter_ms" : 34.2,
+          "loss_pct" : 0,
+          "score" : 58.9,
+          "tested_at" : "2026-11-22T07:35:33Z",
+          "up_mbps" : 3.1
+        }
+      },
+      "port" : 443,
+      "provider" : "Vultr",
+      "provider_id" : "vultr",
+      "region" : "IN",
+      "score" : 58.9
+    },
+    {
+      "colo" : "ALA",
+      "edge" : false,
+      "ip" : "38.180.207.241",
+      "isp" : "3NT SOLUTIONS LLP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 772.9,
+          "down_mbps" : 4.8,
+          "jitter_ms" : 42.1,
+          "loss_pct" : 0,
+          "score" : 58.8,
+          "tested_at" : "2026-11-22T07:21:38Z",
+          "up_mbps" : 2.56
+        }
+      },
+      "port" : 443,
+      "provider" : "3NT SOLUTIONS LLP",
+      "provider_id" : "3nt-solutions-llp",
+      "region" : "KZ",
+      "score" : 58.8
+    },
+    {
+      "colo" : "BLR",
+      "edge" : false,
+      "ip" : "139.84.222.158",
+      "isp" : "The Constant Company, LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 725.9,
+          "down_mbps" : 1.58,
+          "jitter_ms" : 17,
+          "loss_pct" : 0,
+          "score" : 58.7,
+          "tested_at" : "2026-11-22T07:35:15Z",
+          "up_mbps" : 2.7
+        }
+      },
+      "port" : 443,
+      "provider" : "Vultr",
+      "provider_id" : "vultr",
+      "region" : "IN",
+      "score" : 58.7
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "194.32.140.176",
+      "isp" : "PS Internet Company LLP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 716.9,
+          "down_mbps" : 2.27,
+          "jitter_ms" : 38.5,
+          "loss_pct" : 0,
+          "score" : 58.7,
+          "tested_at" : "2026-11-22T07:22:01Z",
+          "up_mbps" : 3.74
+        }
+      },
+      "port" : 443,
+      "provider" : "PS Internet Company LLP",
+      "provider_id" : "ps-internet-company-llp",
+      "region" : "KZ",
+      "score" : 58.7
     },
     {
       "colo" : "SIN",
@@ -2462,6 +4394,29 @@
       "score" : 58.6
     },
     {
+      "colo" : "FRA",
+      "edge" : false,
+      "ip" : "185.135.231.175",
+      "isp" : "Mobin Net Communication Company (Private Joint Stock)",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 701.8,
+          "down_mbps" : 4.22,
+          "jitter_ms" : 70.7,
+          "loss_pct" : 0,
+          "score" : 58.2,
+          "tested_at" : "2026-11-22T07:33:42Z",
+          "up_mbps" : 3.24
+        }
+      },
+      "port" : 8443,
+      "provider" : "Mobin Net Communication Company (Private Joint Stock)",
+      "provider_id" : "mobin-net-communication-company-private-joint-stock",
+      "region" : "IR",
+      "score" : 58.2
+    },
+    {
       "colo" : "STL",
       "edge" : false,
       "ip" : "66.154.114.67",
@@ -2506,6 +4461,29 @@
       "provider_id" : "global-connectivity-solutions-llp",
       "region" : "TR",
       "score" : 58
+    },
+    {
+      "colo" : "BLR",
+      "edge" : false,
+      "ip" : "139.84.135.130",
+      "isp" : "The Constant Company, LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 754.6,
+          "down_mbps" : 2.42,
+          "jitter_ms" : 33.5,
+          "loss_pct" : 0,
+          "score" : 57.9,
+          "tested_at" : "2026-11-22T07:35:18Z",
+          "up_mbps" : 2.72
+        }
+      },
+      "port" : 443,
+      "provider" : "Vultr",
+      "provider_id" : "vultr",
+      "region" : "IN",
+      "score" : 57.9
     },
     {
       "colo" : "ARN",
@@ -2577,6 +4555,29 @@
       "score" : 57.7
     },
     {
+      "colo" : "WAW",
+      "edge" : false,
+      "ip" : "78.140.223.131",
+      "isp" : "JSC Severen-Telecom",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 718.6,
+          "down_mbps" : 3.31,
+          "jitter_ms" : 64.3,
+          "loss_pct" : 0,
+          "score" : 57.7,
+          "tested_at" : "2026-11-22T07:21:57Z",
+          "up_mbps" : 3.75
+        }
+      },
+      "port" : 443,
+      "provider" : "JSC Severen-Telecom",
+      "provider_id" : "jsc-severen-telecom",
+      "region" : "KZ",
+      "score" : 57.7
+    },
+    {
       "colo" : "NRT",
       "edge" : false,
       "ip" : "216.23.84.115",
@@ -2620,6 +4621,29 @@
       "provider" : "HostPapa",
       "provider_id" : "hostpapa",
       "region" : "US",
+      "score" : 57.5
+    },
+    {
+      "colo" : "AKX",
+      "edge" : false,
+      "ip" : "92.60.75.174",
+      "isp" : "3HCLOUD LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 683.5,
+          "down_mbps" : 3.64,
+          "jitter_ms" : 90.1,
+          "loss_pct" : 0,
+          "score" : 57.5,
+          "tested_at" : "2026-11-22T07:22:18Z",
+          "up_mbps" : 4.13
+        }
+      },
+      "port" : 443,
+      "provider" : "3HCLOUD LLC",
+      "provider_id" : "3hcloud-llc",
+      "region" : "KZ",
       "score" : 57.5
     },
     {
@@ -2667,6 +4691,29 @@
       "provider_id" : "cnserver-llc",
       "region" : "US",
       "score" : 57.2
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "153.80.194.50",
+      "isp" : "Modern Server Solutions LLP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 712.6,
+          "down_mbps" : 1,
+          "jitter_ms" : 33.9,
+          "loss_pct" : 0,
+          "score" : 57.1,
+          "tested_at" : "2026-11-22T07:21:45Z",
+          "up_mbps" : 3.76
+        }
+      },
+      "port" : 443,
+      "provider" : "Modern Server Solutions LLP",
+      "provider_id" : "modern-server-solutions-llp",
+      "region" : "KZ",
+      "score" : 57.1
     },
     {
       "colo" : "PDX",
@@ -2830,6 +4877,52 @@
       "score" : 56.4
     },
     {
+      "colo" : "FRA",
+      "edge" : false,
+      "ip" : "212.116.234.223",
+      "isp" : "PS Internet Company LLP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 814.7,
+          "down_mbps" : 4.54,
+          "jitter_ms" : 64.5,
+          "loss_pct" : 0,
+          "score" : 56.4,
+          "tested_at" : "2026-11-22T07:22:03Z",
+          "up_mbps" : 3.83
+        }
+      },
+      "port" : 443,
+      "provider" : "PS Internet Company LLP",
+      "provider_id" : "ps-internet-company-llp",
+      "region" : "KZ",
+      "score" : 56.4
+    },
+    {
+      "colo" : "BOM",
+      "edge" : false,
+      "ip" : "65.20.80.227",
+      "isp" : "The Constant Company, LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 706.4,
+          "down_mbps" : 1.56,
+          "jitter_ms" : 54.5,
+          "loss_pct" : 0,
+          "score" : 56.4,
+          "tested_at" : "2026-11-22T07:35:15Z",
+          "up_mbps" : 3.1
+        }
+      },
+      "port" : 443,
+      "provider" : "Vultr",
+      "provider_id" : "vultr",
+      "region" : "IN",
+      "score" : 56.4
+    },
+    {
       "colo" : "LAX",
       "edge" : false,
       "ip" : "185.132.54.23",
@@ -2853,6 +4946,29 @@
       "score" : 56.3
     },
     {
+      "colo" : "BOM",
+      "edge" : false,
+      "ip" : "5.253.30.228",
+      "isp" : "BEAFORT LIMITED",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 763,
+          "down_mbps" : 2,
+          "jitter_ms" : 30.1,
+          "loss_pct" : 0,
+          "score" : 56.3,
+          "tested_at" : "2026-11-22T07:35:44Z",
+          "up_mbps" : 1.61
+        }
+      },
+      "port" : 443,
+      "provider" : "BEAFORT LIMITED",
+      "provider_id" : "beafort-limited",
+      "region" : "IN",
+      "score" : 56.3
+    },
+    {
       "colo" : "LAX",
       "edge" : false,
       "ip" : "179.255.136.73",
@@ -2873,6 +4989,29 @@
       "provider" : "DMIT Cloud Services",
       "provider_id" : "dmit-cloud-services",
       "region" : "US",
+      "score" : 55.9
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "91.207.75.26",
+      "isp" : "HostLab LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 839.6,
+          "down_mbps" : 3.36,
+          "jitter_ms" : 47.5,
+          "loss_pct" : 0,
+          "score" : 55.9,
+          "tested_at" : "2026-11-22T07:22:18Z",
+          "up_mbps" : 3.77
+        }
+      },
+      "port" : 443,
+      "provider" : "HostLab LLC",
+      "provider_id" : "hostlab-llc",
+      "region" : "KZ",
       "score" : 55.9
     },
     {
@@ -2920,6 +5059,52 @@
       "provider_id" : "hytron-network-services-limited-hk",
       "region" : "HK",
       "score" : 55.7
+    },
+    {
+      "colo" : "BOM",
+      "edge" : false,
+      "ip" : "103.111.114.87",
+      "isp" : "Melbikomas UAB",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 718.6,
+          "down_mbps" : 1.42,
+          "jitter_ms" : 38.4,
+          "loss_pct" : 0,
+          "score" : 55.6,
+          "tested_at" : "2026-11-22T07:35:15Z",
+          "up_mbps" : 1.17
+        }
+      },
+      "port" : 443,
+      "provider" : "Melbikomas UAB",
+      "provider_id" : "melbikomas-uab",
+      "region" : "IN",
+      "score" : 55.6
+    },
+    {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "213.155.20.177",
+      "isp" : "PS Internet Company LLP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 757,
+          "down_mbps" : 1.21,
+          "jitter_ms" : 44.6,
+          "loss_pct" : 0,
+          "score" : 55.5,
+          "tested_at" : "2026-11-22T07:21:43Z",
+          "up_mbps" : 3.72
+        }
+      },
+      "port" : 443,
+      "provider" : "PS Internet Company LLP",
+      "provider_id" : "ps-internet-company-llp",
+      "region" : "KZ",
+      "score" : 55.5
     },
     {
       "colo" : "NRT",
@@ -3014,6 +5199,29 @@
       "score" : 54.9
     },
     {
+      "colo" : "ARN",
+      "edge" : false,
+      "ip" : "91.207.74.142",
+      "isp" : "HostLab LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 803.1,
+          "down_mbps" : 3.38,
+          "jitter_ms" : 77.1,
+          "loss_pct" : 0,
+          "score" : 54.7,
+          "tested_at" : "2026-11-22T07:22:01Z",
+          "up_mbps" : 3.61
+        }
+      },
+      "port" : 443,
+      "provider" : "HostLab LLC",
+      "provider_id" : "hostlab-llc",
+      "region" : "KZ",
+      "score" : 54.7
+    },
+    {
       "colo" : "DME",
       "edge" : false,
       "ip" : "31.129.48.139",
@@ -3083,6 +5291,29 @@
       "score" : 54.4
     },
     {
+      "colo" : "FRA",
+      "edge" : false,
+      "ip" : "194.238.42.181",
+      "isp" : "PS Internet Company LLP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 802.3,
+          "down_mbps" : 1.52,
+          "jitter_ms" : 54,
+          "loss_pct" : 0,
+          "score" : 54.1,
+          "tested_at" : "2026-11-22T07:21:41Z",
+          "up_mbps" : 3.48
+        }
+      },
+      "port" : 443,
+      "provider" : "PS Internet Company LLP",
+      "provider_id" : "ps-internet-company-llp",
+      "region" : "KZ",
+      "score" : 54.1
+    },
+    {
       "colo" : "HKG",
       "edge" : false,
       "ip" : "149.104.12.254",
@@ -3104,6 +5335,29 @@
       "provider_id" : "hongkong-wen-jing-network-limited",
       "region" : "HK",
       "score" : 53.5
+    },
+    {
+      "colo" : "BOM",
+      "edge" : false,
+      "ip" : "157.20.27.35",
+      "isp" : "Intech Online Private Limited",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 880.1,
+          "down_mbps" : 3.21,
+          "jitter_ms" : 59.9,
+          "loss_pct" : 0,
+          "score" : 53.4,
+          "tested_at" : "2026-11-22T07:35:15Z",
+          "up_mbps" : 2.74
+        }
+      },
+      "port" : 443,
+      "provider" : "Intech Online Private Limited",
+      "provider_id" : "intech-online-private-limited",
+      "region" : "IN",
+      "score" : 53.4
     },
     {
       "colo" : "MXP",
@@ -3196,6 +5450,29 @@
       "provider_id" : "vultr",
       "region" : "JP",
       "score" : 53
+    },
+    {
+      "colo" : "DEL",
+      "edge" : false,
+      "ip" : "219.65.73.81",
+      "isp" : "Reliance Jio Infocomm Limited",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 928.9,
+          "down_mbps" : 2.69,
+          "jitter_ms" : 41.1,
+          "loss_pct" : 0,
+          "score" : 52.8,
+          "tested_at" : "2026-11-22T07:35:55Z",
+          "up_mbps" : 2.38
+        }
+      },
+      "port" : 443,
+      "provider" : "Reliance Jio Infocomm Limited",
+      "provider_id" : "reliance-jio-infocomm-limited",
+      "region" : "IN",
+      "score" : 52.8
     },
     {
       "colo" : "NRT",
@@ -3313,6 +5590,29 @@
       "score" : 52.6
     },
     {
+      "colo" : "BOM",
+      "edge" : false,
+      "ip" : "5.253.29.83",
+      "isp" : "BEAFORT LIMITED",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 758.4,
+          "down_mbps" : 0.9,
+          "jitter_ms" : 64.5,
+          "loss_pct" : 0,
+          "score" : 52.6,
+          "tested_at" : "2026-11-22T07:35:36Z",
+          "up_mbps" : 3.11
+        }
+      },
+      "port" : 443,
+      "provider" : "BEAFORT LIMITED",
+      "provider_id" : "beafort-limited",
+      "region" : "IN",
+      "score" : 52.6
+    },
+    {
       "colo" : "NRT",
       "edge" : false,
       "ip" : "103.201.131.215",
@@ -3405,6 +5705,29 @@
       "score" : 52.2
     },
     {
+      "colo" : "FRA",
+      "edge" : false,
+      "ip" : "38.180.38.12",
+      "isp" : "3NT SOLUTIONS LLP",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 1001.6,
+          "down_mbps" : 2.91,
+          "jitter_ms" : 27.3,
+          "loss_pct" : 0,
+          "score" : 52.1,
+          "tested_at" : "2026-11-22T07:22:23Z",
+          "up_mbps" : 2.58
+        }
+      },
+      "port" : 443,
+      "provider" : "3NT SOLUTIONS LLP",
+      "provider_id" : "3nt-solutions-llp",
+      "region" : "KZ",
+      "score" : 52.1
+    },
+    {
       "colo" : "ORD",
       "edge" : false,
       "ip" : "192.3.176.210",
@@ -3451,6 +5774,29 @@
       "score" : 51
     },
     {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "89.40.15.168",
+      "isp" : "UAB Interneto vizija",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 568.1,
+          "down_mbps" : 4.17,
+          "jitter_ms" : 261.9,
+          "loss_pct" : 0,
+          "score" : 50.6,
+          "tested_at" : "2026-11-22T07:17:40Z",
+          "up_mbps" : 5.16
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB Interneto vizija",
+      "provider_id" : "uab-interneto-vizija",
+      "region" : "LT",
+      "score" : 50.6
+    },
+    {
       "colo" : "DME",
       "edge" : false,
       "ip" : "185.137.235.254",
@@ -3472,6 +5818,29 @@
       "provider_id" : "selectel-network",
       "region" : "RU",
       "score" : 50.2
+    },
+    {
+      "colo" : "ICN",
+      "edge" : false,
+      "ip" : "130.94.29.155",
+      "isp" : "LIGHT NODE LIMITED",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 1107.5,
+          "down_mbps" : 2.09,
+          "jitter_ms" : 7.7,
+          "loss_pct" : 0,
+          "score" : 49.5,
+          "tested_at" : "2026-11-22T07:31:04Z",
+          "up_mbps" : 1.91
+        }
+      },
+      "port" : 443,
+      "provider" : "LIGHT NODE LIMITED",
+      "provider_id" : "light-node-limited",
+      "region" : "KR",
+      "score" : 49.5
     },
     {
       "colo" : "ORD",
@@ -3520,6 +5889,29 @@
       "score" : 48.6
     },
     {
+      "colo" : "FRA",
+      "edge" : false,
+      "ip" : "185.48.250.113",
+      "isp" : "eServer s.r.o.",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 710,
+          "down_mbps" : 4.88,
+          "jitter_ms" : 397,
+          "loss_pct" : 0,
+          "score" : 48.2,
+          "tested_at" : "2026-11-22T07:25:03Z",
+          "up_mbps" : 5.73
+        }
+      },
+      "port" : 443,
+      "provider" : "eServer s.r.o.",
+      "provider_id" : "eserver-s-r-o",
+      "region" : "RS",
+      "score" : 48.2
+    },
+    {
       "colo" : "LAX",
       "edge" : false,
       "ip" : "172.252.125.161",
@@ -3541,6 +5933,144 @@
       "provider_id" : "cloudflare",
       "region" : "US",
       "score" : 47.8
+    },
+    {
+      "colo" : "ICN",
+      "edge" : false,
+      "ip" : "141.164.44.60",
+      "isp" : "The Constant Company, LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 1173.3,
+          "down_mbps" : 1.98,
+          "jitter_ms" : 7.3,
+          "loss_pct" : 0,
+          "score" : 47.5,
+          "tested_at" : "2026-11-22T07:30:56Z",
+          "up_mbps" : 1.87
+        }
+      },
+      "port" : 443,
+      "provider" : "Vultr",
+      "provider_id" : "vultr",
+      "region" : "KR",
+      "score" : 47.5
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "80.208.227.162",
+      "isp" : "UAB Interneto vizija",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 763.5,
+          "down_mbps" : 7.18,
+          "jitter_ms" : 662.1,
+          "loss_pct" : 0,
+          "score" : 46.3,
+          "tested_at" : "2026-11-22T07:17:40Z",
+          "up_mbps" : 6.76
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB Interneto vizija",
+      "provider_id" : "uab-interneto-vizija",
+      "region" : "LT",
+      "score" : 46.3
+    },
+    {
+      "colo" : "VNO",
+      "edge" : false,
+      "ip" : "5.199.162.130",
+      "isp" : "UAB Cherry Servers",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 814.1,
+          "down_mbps" : 7.62,
+          "jitter_ms" : 853,
+          "loss_pct" : 0,
+          "score" : 45.6,
+          "tested_at" : "2026-11-22T07:17:42Z",
+          "up_mbps" : 6.22
+        }
+      },
+      "port" : 443,
+      "provider" : "UAB Cherry Servers",
+      "provider_id" : "uab-cherry-servers",
+      "region" : "LT",
+      "score" : 45.6
+    },
+    {
+      "colo" : "ICN",
+      "edge" : false,
+      "ip" : "158.247.210.172",
+      "isp" : "The Constant Company, LLC",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 1162.5,
+          "down_mbps" : 2.11,
+          "jitter_ms" : 46.3,
+          "loss_pct" : 0,
+          "score" : 44.9,
+          "tested_at" : "2026-11-22T07:30:45Z",
+          "up_mbps" : 1.96
+        }
+      },
+      "port" : 443,
+      "provider" : "Vultr",
+      "provider_id" : "vultr",
+      "region" : "KR",
+      "score" : 44.9
+    },
+    {
+      "colo" : "ICN",
+      "edge" : false,
+      "ip" : "43.131.242.223",
+      "isp" : "6 COLLYER QUAY",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 1158.3,
+          "down_mbps" : 1.84,
+          "jitter_ms" : 37,
+          "loss_pct" : 0,
+          "score" : 44.6,
+          "tested_at" : "2026-11-22T07:30:27Z",
+          "up_mbps" : 1.22
+        }
+      },
+      "port" : 443,
+      "provider" : "6 COLLYER QUAY",
+      "provider_id" : "6-collyer-quay",
+      "region" : "KR",
+      "score" : 44.6
+    },
+    {
+      "colo" : "ICN",
+      "edge" : false,
+      "ip" : "54.180.151.15",
+      "isp" : "Amazon.com, Inc.",
+      "n_ops" : 1,
+      "operators" : {
+        "tci" : {
+          "delay_ms" : 1267.5,
+          "down_mbps" : 0.41,
+          "jitter_ms" : 25,
+          "loss_pct" : 0,
+          "score" : 41.7,
+          "tested_at" : "2026-11-22T07:30:22Z",
+          "up_mbps" : 1.27
+        }
+      },
+      "port" : 443,
+      "provider" : "Amazon / AWS",
+      "provider_id" : "amazon-aws",
+      "region" : "KR",
+      "score" : 41.7
     },
     {
       "colo" : "TBS",
@@ -3592,5 +6122,5 @@
   "operators" : [
     "tci"
   ],
-  "updated" : "2026-11-21T22:13:27Z"
+  "updated" : "2026-11-22T08:13:23Z"
 }

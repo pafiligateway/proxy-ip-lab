@@ -75,9 +75,28 @@
       "stability" : 1,
       "tested_at" : "2026-11-21T22:02:25Z",
       "up_mbps" : 2.02
+    },
+    {
+      "asn" : "",
+      "colo" : "ICN",
+      "delay_ms" : 1267.5,
+      "down_mbps" : 0.41,
+      "edge" : false,
+      "grade" : "C",
+      "ip" : "54.180.151.15",
+      "isp" : "Amazon.com, Inc.",
+      "jitter_ms" : 25,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Amazon / AWS",
+      "region" : "KR",
+      "score" : 41.7,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T07:30:22Z",
+      "up_mbps" : 1.27
     }
   ],
   "provider" : "Amazon / AWS",
   "provider_id" : "amazon-aws",
-  "updated" : "2026-11-21T22:13:27Z"
+  "updated" : "2026-11-22T08:13:23Z"
 }

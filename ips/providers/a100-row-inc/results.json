@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "ARN",
+      "delay_ms" : 569.9,
+      "down_mbps" : 7.25,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "51.21.156.13",
+      "isp" : "A100 ROW Inc",
+      "jitter_ms" : 11.8,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "A100 ROW Inc",
+      "region" : "SE",
+      "score" : 67.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T08:05:33Z",
+      "up_mbps" : 1.92
+    },
+    {
+      "asn" : "",
+      "colo" : "ARN",
+      "delay_ms" : 538.6,
+      "down_mbps" : 7.14,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "51.20.160.11",
+      "isp" : "A100 ROW Inc",
+      "jitter_ms" : 60.1,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "A100 ROW Inc",
+      "region" : "SE",
+      "score" : 64.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T08:05:59Z",
+      "up_mbps" : 2.26
+    }
+  ],
+  "provider" : "A100 ROW Inc",
+  "provider_id" : "a100-row-inc",
+  "updated" : "2026-11-22T08:13:23Z"
+}

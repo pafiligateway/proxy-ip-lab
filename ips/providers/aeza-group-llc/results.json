@@ -59,6 +59,44 @@
     },
     {
       "asn" : "",
+      "colo" : "TLL",
+      "delay_ms" : 451.5,
+      "down_mbps" : 5.03,
+      "edge" : false,
+      "grade" : "B+",
+      "ip" : "89.22.236.205",
+      "isp" : "AEZA GROUP LLC",
+      "jitter_ms" : 23.3,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "AEZA GROUP LLC",
+      "region" : "SE",
+      "score" : 70.8,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T08:05:47Z",
+      "up_mbps" : 5.86
+    },
+    {
+      "asn" : "",
+      "colo" : "HEL",
+      "delay_ms" : 592.2,
+      "down_mbps" : 2.98,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "193.188.22.207",
+      "isp" : "AEZA GROUP LLC",
+      "jitter_ms" : 5.4,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "AEZA GROUP LLC",
+      "region" : "SE",
+      "score" : 66.8,
+      "stability" : 0,
+      "tested_at" : "2026-11-22T08:05:52Z",
+      "up_mbps" : 6.21
+    },
+    {
+      "asn" : "",
       "colo" : "FRA",
       "delay_ms" : 404.2,
       "down_mbps" : 2,
@@ -79,5 +117,5 @@
   ],
   "provider" : "Aeza Group LLC",
   "provider_id" : "aeza-group-llc",
-  "updated" : "2026-11-21T22:13:27Z"
+  "updated" : "2026-11-22T08:13:23Z"
 }

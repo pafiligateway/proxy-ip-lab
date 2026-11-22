@@ -18,9 +18,28 @@
       "stability" : 1,
       "tested_at" : "2026-11-21T21:58:17Z",
       "up_mbps" : 2.55
+    },
+    {
+      "asn" : "",
+      "colo" : "ICN",
+      "delay_ms" : 1158.3,
+      "down_mbps" : 1.84,
+      "edge" : false,
+      "grade" : "C+",
+      "ip" : "43.131.242.223",
+      "isp" : "6 COLLYER QUAY",
+      "jitter_ms" : 37,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "6 COLLYER QUAY",
+      "region" : "KR",
+      "score" : 44.6,
+      "stability" : 0,
+      "tested_at" : "2026-11-22T07:30:27Z",
+      "up_mbps" : 1.22
     }
   ],
   "provider" : "6 COLLYER QUAY",
   "provider_id" : "6-collyer-quay",
-  "updated" : "2026-11-21T22:13:27Z"
+  "updated" : "2026-11-22T08:13:23Z"
 }

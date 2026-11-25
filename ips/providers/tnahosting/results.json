@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "ORD",
+      "delay_ms" : 3265,
+      "down_mbps" : 0.52,
+      "edge" : false,
+      "grade" : "C-",
+      "ip" : "45.41.207.63",
+      "isp" : "TNAHOSTING",
+      "jitter_ms" : 7773.7,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "TNAHOSTING",
+      "region" : "US",
+      "score" : 30.2,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T19:37:03Z",
+      "up_mbps" : 2.82
+    }
+  ],
+  "provider" : "TNAHOSTING",
+  "provider_id" : "tnahosting",
+  "updated" : "2026-11-25T20:34:22Z"
+}

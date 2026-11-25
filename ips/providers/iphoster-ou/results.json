@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "asn" : "",
+      "colo" : "CDG",
+      "delay_ms" : 972.7,
+      "down_mbps" : 7.62,
+      "edge" : false,
+      "grade" : "C",
+      "ip" : "153.56.171.219",
+      "isp" : "IPHOSTER OU",
+      "jitter_ms" : 288.1,
+      "loss_pct" : 0,
+      "port" : 2053,
+      "provider" : "IPHOSTER OU",
+      "region" : "FR",
+      "score" : 43.7,
+      "stability" : 0.6,
+      "tested_at" : "2026-11-25T19:36:38Z",
+      "up_mbps" : 6.46
+    }
+  ],
+  "provider" : "IPHOSTER OU",
+  "provider_id" : "iphoster-ou",
+  "updated" : "2026-11-25T20:34:22Z"
+}

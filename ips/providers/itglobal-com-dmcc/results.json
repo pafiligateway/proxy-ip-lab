@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "SIN",
-      "delay_ms" : 838.5,
-      "down_mbps" : 3.77,
+      "delay_ms" : 1693.3,
+      "down_mbps" : 2.32,
       "edge" : false,
-      "grade" : "B-",
+      "grade" : "C-",
       "ip" : "90.156.220.194",
       "isp" : "Itglobal COM Dmcc",
-      "jitter_ms" : 13.8,
+      "jitter_ms" : 741.8,
       "loss_pct" : 0,
       "port" : 2053,
       "provider" : "Itglobal COM Dmcc",
       "region" : "AE",
-      "score" : 58.7,
-      "stability" : 0,
-      "tested_at" : "2026-11-21T21:53:31Z",
-      "up_mbps" : 2.77
+      "score" : 32.2,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T18:50:52Z",
+      "up_mbps" : 1.21
     }
   ],
   "provider" : "Itglobal COM Dmcc",
   "provider_id" : "itglobal-com-dmcc",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

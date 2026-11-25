@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "FRA",
-      "delay_ms" : 455.6,
-      "down_mbps" : 3.79,
+      "delay_ms" : 671.9,
+      "down_mbps" : 3.15,
       "edge" : false,
-      "grade" : "B",
+      "grade" : "C+",
       "ip" : "45.93.137.149",
       "isp" : "Hostinger Operations UAB",
-      "jitter_ms" : 30.6,
+      "jitter_ms" : 240.2,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Hostinger",
       "region" : "LT",
-      "score" : 66.2,
-      "stability" : 0,
-      "tested_at" : "2026-11-22T07:17:48Z",
-      "up_mbps" : 1.27
+      "score" : 45.3,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T19:36:56Z",
+      "up_mbps" : 1.35
     }
   ],
   "provider" : "Hostinger",
   "provider_id" : "hostinger",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "ARN",
-      "delay_ms" : 349.5,
-      "down_mbps" : 5.04,
+      "delay_ms" : 743.5,
+      "down_mbps" : 2.49,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "C",
       "ip" : "45.82.80.96",
       "isp" : "Internetport Sweden AB",
-      "jitter_ms" : 9.8,
+      "jitter_ms" : 472.8,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Internetport Sweden AB",
       "region" : "SE",
-      "score" : 74.7,
+      "score" : 42.5,
       "stability" : 1,
-      "tested_at" : "2026-11-22T08:05:34Z",
-      "up_mbps" : 5.89
+      "tested_at" : "2026-11-25T19:37:04Z",
+      "up_mbps" : 5.35
     }
   ],
   "provider" : "Internetport Sweden AB",
   "provider_id" : "internetport-sweden-ab",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

@@ -2,25 +2,25 @@
   "entries" : [
     {
       "asn" : "",
-      "colo" : "LAX",
-      "delay_ms" : 810,
-      "down_mbps" : 2.73,
+      "colo" : "ORD",
+      "delay_ms" : 1210.6,
+      "down_mbps" : 2.72,
       "edge" : false,
-      "grade" : "C+",
-      "ip" : "172.252.125.161",
+      "grade" : "C-",
+      "ip" : "23.95.171.155",
       "isp" : "Cloudflare London, LLC",
-      "jitter_ms" : 142.6,
+      "jitter_ms" : 706.3,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Cloudflare",
       "region" : "US",
-      "score" : 47.8,
+      "score" : 31.7,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:29:41Z",
-      "up_mbps" : 2.55
+      "tested_at" : "2026-11-25T19:37:25Z",
+      "up_mbps" : 0.46
     }
   ],
   "provider" : "Cloudflare",
   "provider_id" : "cloudflare",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

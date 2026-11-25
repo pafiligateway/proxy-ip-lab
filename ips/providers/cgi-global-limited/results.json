@@ -3,24 +3,43 @@
     {
       "asn" : "",
       "colo" : "CDG",
-      "delay_ms" : 357.3,
-      "down_mbps" : 5.36,
+      "delay_ms" : 455.8,
+      "down_mbps" : 2.98,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "B",
       "ip" : "31.56.228.210",
       "isp" : "CGI GLOBAL LIMITED",
-      "jitter_ms" : 11.9,
+      "jitter_ms" : 37.5,
       "loss_pct" : 0,
       "port" : 8443,
       "provider" : "CGI GLOBAL LIMITED",
       "region" : "FR",
-      "score" : 75,
+      "score" : 66.4,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:24:46Z",
-      "up_mbps" : 7.2
+      "tested_at" : "2026-11-25T19:36:43Z",
+      "up_mbps" : 3.3
+    },
+    {
+      "asn" : "",
+      "colo" : "CDG",
+      "delay_ms" : 525,
+      "down_mbps" : 5.26,
+      "edge" : false,
+      "grade" : "B",
+      "ip" : "95.182.97.6",
+      "isp" : "CGI GLOBAL LIMITED",
+      "jitter_ms" : 110.9,
+      "loss_pct" : 0,
+      "port" : 8443,
+      "provider" : "CGI GLOBAL LIMITED",
+      "region" : "FR",
+      "score" : 60.9,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T19:37:13Z",
+      "up_mbps" : 4.51
     }
   ],
   "provider" : "CGI GLOBAL LIMITED",
   "provider_id" : "cgi-global-limited",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

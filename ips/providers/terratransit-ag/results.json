@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "SOF",
-      "delay_ms" : 351.1,
-      "down_mbps" : 3.04,
+      "delay_ms" : 424.6,
+      "down_mbps" : 2.46,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "B",
       "ip" : "217.217.227.201",
       "isp" : "TerraTransit AG",
-      "jitter_ms" : 44.1,
+      "jitter_ms" : 62.9,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "TerraTransit AG",
       "region" : "BG",
-      "score" : 69.4,
+      "score" : 64.8,
       "stability" : 1,
-      "tested_at" : "2026-11-22T08:01:56Z",
-      "up_mbps" : 4.46
+      "tested_at" : "2026-11-25T19:36:51Z",
+      "up_mbps" : 3.56
     }
   ],
   "provider" : "TerraTransit AG",
   "provider_id" : "terratransit-ag",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

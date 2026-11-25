@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "FRA",
-      "delay_ms" : 558.2,
-      "down_mbps" : 3.22,
+      "delay_ms" : 617.3,
+      "down_mbps" : 0.7,
       "edge" : false,
-      "grade" : "B",
+      "grade" : "B-",
       "ip" : "77.239.109.66",
       "isp" : "Amsterdam, Netherlands",
-      "jitter_ms" : 45.2,
+      "jitter_ms" : 86.3,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Amsterdam, Netherlands",
       "region" : "DE",
-      "score" : 62.6,
+      "score" : 54.4,
       "stability" : 1,
-      "tested_at" : "2026-11-21T19:49:11Z",
-      "up_mbps" : 2.11
+      "tested_at" : "2026-11-25T19:37:03Z",
+      "up_mbps" : 3.17
     }
   ],
   "provider" : "Amsterdam, Netherlands",
   "provider_id" : "amsterdam-netherlands",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

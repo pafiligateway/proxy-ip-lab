@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "SOF",
-      "delay_ms" : 450.8,
-      "down_mbps" : 4.93,
+      "delay_ms" : 785.4,
+      "down_mbps" : 6.31,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "C+",
       "ip" : "2.27.105.199",
       "isp" : "NetGrid Host LTD",
-      "jitter_ms" : 22.5,
+      "jitter_ms" : 956.5,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "NetGrid Host LTD",
       "region" : "BG",
-      "score" : 70.7,
-      "stability" : 0,
-      "tested_at" : "2026-11-22T08:01:55Z",
-      "up_mbps" : 5.51
+      "score" : 44,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T18:52:52Z",
+      "up_mbps" : 3.23
     }
   ],
   "provider" : "NetGrid Host LTD",
   "provider_id" : "netgrid-host-ltd",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

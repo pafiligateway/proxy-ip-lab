@@ -3,43 +3,24 @@
     {
       "asn" : "",
       "colo" : "FRA",
-      "delay_ms" : 403.6,
-      "down_mbps" : 5.37,
+      "delay_ms" : 508.2,
+      "down_mbps" : 3.02,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "B",
       "ip" : "138.124.38.41",
       "isp" : "WAIcore Ltd",
-      "jitter_ms" : 24.8,
+      "jitter_ms" : 111.6,
       "loss_pct" : 0,
       "port" : 8443,
       "provider" : "WAIcore Ltd",
       "region" : "DE",
-      "score" : 71.6,
+      "score" : 60,
       "stability" : 1,
-      "tested_at" : "2026-11-21T19:49:43Z",
-      "up_mbps" : 4.53
-    },
-    {
-      "asn" : "",
-      "colo" : "FRA",
-      "delay_ms" : 412.7,
-      "down_mbps" : 6.76,
-      "edge" : false,
-      "grade" : "B",
-      "ip" : "138.124.36.98",
-      "isp" : "WAIcore Ltd",
-      "jitter_ms" : 105.8,
-      "loss_pct" : 0,
-      "port" : 443,
-      "provider" : "WAIcore Ltd",
-      "region" : "DE",
-      "score" : 66,
-      "stability" : 1,
-      "tested_at" : "2026-11-21T19:49:11Z",
-      "up_mbps" : 5.08
+      "tested_at" : "2026-11-25T19:36:54Z",
+      "up_mbps" : 5.28
     }
   ],
   "provider" : "WAIcore Ltd",
   "provider_id" : "waicore-ltd",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

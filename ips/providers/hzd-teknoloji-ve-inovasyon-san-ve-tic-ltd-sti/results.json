@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "IST",
-      "delay_ms" : 207.5,
-      "down_mbps" : 8.82,
+      "delay_ms" : 546.3,
+      "down_mbps" : 8.81,
       "edge" : false,
-      "grade" : "A-",
+      "grade" : "B-",
       "ip" : "188.132.215.32",
       "isp" : "HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.",
-      "jitter_ms" : 7.8,
+      "jitter_ms" : 211.8,
       "loss_pct" : 0,
       "port" : 8443,
       "provider" : "HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.",
       "region" : "TR",
-      "score" : 79.6,
+      "score" : 57.2,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:47:40Z",
-      "up_mbps" : 3.33
+      "tested_at" : "2026-11-25T19:36:38Z",
+      "up_mbps" : 10.35
     }
   ],
   "provider" : "HZD TEKNOLOJI VE INOVASYON SAN. VE TIC. LTD. STI.",
   "provider_id" : "hzd-teknoloji-ve-inovasyon-san-ve-tic-ltd-sti",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

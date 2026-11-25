@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "ARN",
-      "delay_ms" : 441.9,
-      "down_mbps" : 5.78,
+      "delay_ms" : 487.4,
+      "down_mbps" : 6.56,
       "edge" : false,
       "grade" : "B+",
       "ip" : "148.253.211.16",
       "isp" : "SEBEK sp. z o.o",
-      "jitter_ms" : 29.1,
+      "jitter_ms" : 11.2,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "SEBEK sp. z o.o",
       "region" : "SE",
-      "score" : 70.9,
-      "stability" : 1,
-      "tested_at" : "2026-11-22T08:05:49Z",
-      "up_mbps" : 5.39
+      "score" : 71.6,
+      "stability" : 0.6,
+      "tested_at" : "2026-11-25T19:36:40Z",
+      "up_mbps" : 5.37
     }
   ],
   "provider" : "SEBEK sp. z o.o",
   "provider_id" : "sebek-sp-z-o-o",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

@@ -2,44 +2,25 @@
   "entries" : [
     {
       "asn" : "",
-      "colo" : "ARN",
-      "delay_ms" : 839.6,
-      "down_mbps" : 3.36,
-      "edge" : false,
-      "grade" : "B-",
-      "ip" : "91.207.75.26",
-      "isp" : "HostLab LLC",
-      "jitter_ms" : 47.5,
-      "loss_pct" : 0,
-      "port" : 443,
-      "provider" : "HostLab LLC",
-      "region" : "KZ",
-      "score" : 55.9,
-      "stability" : 1,
-      "tested_at" : "2026-11-22T07:22:18Z",
-      "up_mbps" : 3.77
-    },
-    {
-      "asn" : "",
-      "colo" : "ARN",
-      "delay_ms" : 803.1,
-      "down_mbps" : 3.38,
+      "colo" : "VNO",
+      "delay_ms" : 880.2,
+      "down_mbps" : 4.06,
       "edge" : false,
       "grade" : "B-",
       "ip" : "91.207.74.142",
       "isp" : "HostLab LLC",
-      "jitter_ms" : 77.1,
+      "jitter_ms" : 37.4,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "HostLab LLC",
       "region" : "KZ",
-      "score" : 54.7,
-      "stability" : 0,
-      "tested_at" : "2026-11-22T07:22:01Z",
-      "up_mbps" : 3.61
+      "score" : 56.3,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T19:37:29Z",
+      "up_mbps" : 3.27
     }
   ],
   "provider" : "HostLab LLC",
   "provider_id" : "hostlab-llc",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

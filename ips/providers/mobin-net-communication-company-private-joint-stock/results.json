@@ -2,25 +2,25 @@
   "entries" : [
     {
       "asn" : "",
-      "colo" : "FRA",
-      "delay_ms" : 701.8,
-      "down_mbps" : 4.22,
+      "colo" : "ARN",
+      "delay_ms" : 1238.3,
+      "down_mbps" : 3.48,
       "edge" : false,
-      "grade" : "B-",
+      "grade" : "F",
       "ip" : "185.135.231.175",
       "isp" : "Mobin Net Communication Company (Private Joint Stock)",
-      "jitter_ms" : 70.7,
-      "loss_pct" : 0,
+      "jitter_ms" : 1008.9,
+      "loss_pct" : 33.3,
       "port" : 8443,
       "provider" : "Mobin Net Communication Company (Private Joint Stock)",
       "region" : "IR",
-      "score" : 58.2,
+      "score" : 9.5,
       "stability" : 1,
-      "tested_at" : "2026-11-22T07:33:42Z",
-      "up_mbps" : 3.24
+      "tested_at" : "2026-11-25T19:37:11Z",
+      "up_mbps" : 2.3
     }
   ],
   "provider" : "Mobin Net Communication Company (Private Joint Stock)",
   "provider_id" : "mobin-net-communication-company-private-joint-stock",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

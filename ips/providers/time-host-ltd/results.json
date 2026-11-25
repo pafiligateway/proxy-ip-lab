@@ -3,43 +3,24 @@
     {
       "asn" : "",
       "colo" : "HEL",
-      "delay_ms" : 461.9,
-      "down_mbps" : 8.05,
+      "delay_ms" : 582.7,
+      "down_mbps" : 2.19,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "B-",
       "ip" : "170.168.89.146",
       "isp" : "Time-Host Ltd",
-      "jitter_ms" : 15.2,
+      "jitter_ms" : 97.9,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Time-Host Ltd",
       "region" : "RU",
-      "score" : 73.2,
+      "score" : 58.6,
       "stability" : 1,
-      "tested_at" : "2026-11-21T22:08:03Z",
-      "up_mbps" : 6.55
-    },
-    {
-      "asn" : "",
-      "colo" : "ARN",
-      "delay_ms" : 473,
-      "down_mbps" : 7.51,
-      "edge" : false,
-      "grade" : "B",
-      "ip" : "45.130.151.217",
-      "isp" : "Time-Host Ltd",
-      "jitter_ms" : 110.7,
-      "loss_pct" : 0,
-      "port" : 443,
-      "provider" : "Time-Host Ltd",
-      "region" : "RU",
-      "score" : 61.6,
-      "stability" : 1,
-      "tested_at" : "2026-11-21T22:07:52Z",
-      "up_mbps" : 1.56
+      "tested_at" : "2026-11-25T19:36:55Z",
+      "up_mbps" : 5.61
     }
   ],
   "provider" : "Time-Host Ltd",
   "provider_id" : "time-host-ltd",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

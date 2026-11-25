@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "CDG",
-      "delay_ms" : 357.4,
-      "down_mbps" : 7.58,
+      "delay_ms" : 676.9,
+      "down_mbps" : 1.92,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "C",
       "ip" : "92.119.56.83",
       "isp" : "Nrp Teknoloji Limited Sirketi",
-      "jitter_ms" : 40.7,
+      "jitter_ms" : 355.5,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Nrp Teknoloji Limited Sirketi",
       "region" : "FR",
-      "score" : 73.7,
-      "stability" : 0,
-      "tested_at" : "2026-11-21T21:26:14Z",
-      "up_mbps" : 6.54
+      "score" : 40.2,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T19:36:49Z",
+      "up_mbps" : 0.39
     }
   ],
   "provider" : "Nrp Teknoloji Limited Sirketi",
   "provider_id" : "nrp-teknoloji-limited-sirketi",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

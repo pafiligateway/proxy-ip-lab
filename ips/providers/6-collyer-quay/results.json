@@ -3,21 +3,21 @@
     {
       "asn" : "",
       "colo" : "HKG",
-      "delay_ms" : 852,
-      "down_mbps" : 5.83,
+      "delay_ms" : 924.1,
+      "down_mbps" : 3.52,
       "edge" : false,
       "grade" : "B-",
       "ip" : "43.159.1.170",
       "isp" : "6 COLLYER QUAY",
-      "jitter_ms" : 28.4,
+      "jitter_ms" : 39.1,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "6 COLLYER QUAY",
       "region" : "HK",
-      "score" : 58.6,
+      "score" : 52.8,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:58:17Z",
-      "up_mbps" : 2.55
+      "tested_at" : "2026-11-25T19:00:13Z",
+      "up_mbps" : 1.38
     },
     {
       "asn" : "",
@@ -41,5 +41,5 @@
   ],
   "provider" : "6 COLLYER QUAY",
   "provider_id" : "6-collyer-quay",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

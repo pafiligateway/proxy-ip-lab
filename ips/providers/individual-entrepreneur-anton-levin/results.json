@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "AMS",
-      "delay_ms" : 386.3,
-      "down_mbps" : 0.32,
+      "delay_ms" : 497.9,
+      "down_mbps" : 2.43,
       "edge" : false,
-      "grade" : "B",
+      "grade" : "B-",
       "ip" : "130.12.46.23",
       "isp" : "Individual Entrepreneur Anton Levin",
-      "jitter_ms" : 11.2,
+      "jitter_ms" : 245.1,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Individual Entrepreneur Anton Levin",
       "region" : "NL",
-      "score" : 65,
+      "score" : 52.6,
       "stability" : 1,
-      "tested_at" : "2026-11-21T19:41:44Z",
-      "up_mbps" : 2.15
+      "tested_at" : "2026-11-25T19:10:05Z",
+      "up_mbps" : 6.01
     }
   ],
   "provider" : "Individual Entrepreneur Anton Levin",
   "provider_id" : "individual-entrepreneur-anton-levin",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

@@ -3,43 +3,24 @@
     {
       "asn" : "",
       "colo" : "ARN",
-      "delay_ms" : 364.7,
-      "down_mbps" : 3.87,
-      "edge" : false,
-      "grade" : "B+",
-      "ip" : "5.175.236.54",
-      "isp" : "Switzerland infrastructure",
-      "jitter_ms" : 47,
-      "loss_pct" : 0,
-      "port" : 443,
-      "provider" : "Switzerland infrastructure",
-      "region" : "SE",
-      "score" : 70.6,
-      "stability" : 1,
-      "tested_at" : "2026-11-22T08:05:32Z",
-      "up_mbps" : 6.8
-    },
-    {
-      "asn" : "",
-      "colo" : "ARN",
-      "delay_ms" : 402,
-      "down_mbps" : 6.74,
+      "delay_ms" : 464.3,
+      "down_mbps" : 4.53,
       "edge" : false,
       "grade" : "B",
-      "ip" : "5.175.236.4",
+      "ip" : "5.175.236.54",
       "isp" : "Switzerland infrastructure",
-      "jitter_ms" : 105.1,
+      "jitter_ms" : 102.2,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Switzerland infrastructure",
       "region" : "SE",
-      "score" : 66.7,
-      "stability" : 0,
-      "tested_at" : "2026-11-22T08:05:39Z",
-      "up_mbps" : 6.81
+      "score" : 63.4,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T19:36:52Z",
+      "up_mbps" : 6.71
     }
   ],
   "provider" : "Switzerland infrastructure",
   "provider_id" : "switzerland-infrastructure",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

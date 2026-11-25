@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "LHR",
-      "delay_ms" : 362.9,
-      "down_mbps" : 6.78,
+      "delay_ms" : 946.8,
+      "down_mbps" : 7.38,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "C",
       "ip" : "5.83.218.80",
       "isp" : "Latitude.sh",
-      "jitter_ms" : 9.8,
+      "jitter_ms" : 395.4,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Latitude.sh",
       "region" : "GB",
-      "score" : 74.8,
+      "score" : 43.2,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:34:20Z",
-      "up_mbps" : 4.3
+      "tested_at" : "2026-11-25T18:59:15Z",
+      "up_mbps" : 5.93
     }
   ],
   "provider" : "Latitude.sh",
   "provider_id" : "latitude-sh",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

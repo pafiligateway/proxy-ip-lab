@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "HKG",
-      "delay_ms" : 766.1,
-      "down_mbps" : 3.08,
+      "delay_ms" : 3512.2,
+      "down_mbps" : 1.38,
       "edge" : false,
-      "grade" : "B-",
+      "grade" : "C-",
       "ip" : "45.39.199.98",
       "isp" : "HYTRON NETWORK HK",
-      "jitter_ms" : 32.4,
+      "jitter_ms" : 4023.5,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "HYTRON NETWORK HK",
       "region" : "HK",
-      "score" : 58.6,
+      "score" : 30.7,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:57:36Z",
-      "up_mbps" : 2.95
+      "tested_at" : "2026-11-25T19:37:22Z",
+      "up_mbps" : 1.15
     }
   ],
   "provider" : "HYTRON NETWORK HK",
   "provider_id" : "hytron-network-hk",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

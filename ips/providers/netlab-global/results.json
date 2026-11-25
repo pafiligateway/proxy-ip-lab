@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "NRT",
-      "delay_ms" : 939.3,
-      "down_mbps" : 2.65,
+      "delay_ms" : 976.2,
+      "down_mbps" : 1.67,
       "edge" : false,
       "grade" : "B-",
       "ip" : "64.83.40.57",
       "isp" : "NetLab Global",
-      "jitter_ms" : 7.3,
+      "jitter_ms" : 8.5,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "NetLab Global",
       "region" : "JP",
-      "score" : 54.6,
-      "stability" : 1,
-      "tested_at" : "2026-11-21T22:02:37Z",
-      "up_mbps" : 1.83
+      "score" : 52.3,
+      "stability" : 0,
+      "tested_at" : "2026-11-25T19:03:23Z",
+      "up_mbps" : 1.93
     }
   ],
   "provider" : "NetLab Global",
   "provider_id" : "netlab-global",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

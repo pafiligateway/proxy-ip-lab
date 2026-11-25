@@ -2,25 +2,25 @@
   "entries" : [
     {
       "asn" : "",
-      "colo" : "AMS",
-      "delay_ms" : 530.1,
-      "down_mbps" : 3.83,
+      "colo" : "ARN",
+      "delay_ms" : 603.9,
+      "down_mbps" : 0.44,
       "edge" : false,
-      "grade" : "B",
+      "grade" : "B-",
       "ip" : "193.233.90.139",
       "isp" : "AEZA GROUP Ltd",
-      "jitter_ms" : 72.6,
+      "jitter_ms" : 94.8,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "AEZA GROUP Ltd",
       "region" : "RU",
-      "score" : 63.8,
+      "score" : 53.8,
       "stability" : 1,
-      "tested_at" : "2026-11-21T22:07:58Z",
-      "up_mbps" : 6.32
+      "tested_at" : "2026-11-25T19:37:03Z",
+      "up_mbps" : 4.49
     }
   ],
   "provider" : "AEZA GROUP Ltd",
   "provider_id" : "aeza-group-ltd",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

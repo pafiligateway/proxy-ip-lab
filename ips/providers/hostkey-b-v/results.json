@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "VIE",
-      "delay_ms" : 542.8,
-      "down_mbps" : 8.96,
+      "delay_ms" : 722.3,
+      "down_mbps" : 2.79,
       "edge" : false,
-      "grade" : "B",
+      "grade" : "D",
       "ip" : "82.26.136.195",
       "isp" : "Hostkey B.V.",
-      "jitter_ms" : 131,
-      "loss_pct" : 0,
+      "jitter_ms" : 357.5,
+      "loss_pct" : 33.3,
       "port" : 8443,
       "provider" : "Hostkey B.V.",
       "region" : "TR",
-      "score" : 62.3,
+      "score" : 21.9,
       "stability" : 0,
-      "tested_at" : "2026-11-21T21:47:40Z",
-      "up_mbps" : 7.25
+      "tested_at" : "2026-11-25T19:37:06Z",
+      "up_mbps" : 6.37
     }
   ],
   "provider" : "Hostkey B.V.",
   "provider_id" : "hostkey-b-v",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

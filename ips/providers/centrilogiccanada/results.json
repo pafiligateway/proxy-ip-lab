@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "YYZ",
-      "delay_ms" : 627.7,
-      "down_mbps" : 4.43,
+      "delay_ms" : 695.8,
+      "down_mbps" : 0.31,
       "edge" : false,
-      "grade" : "B",
+      "grade" : "C+",
       "ip" : "172.98.207.58",
       "isp" : "CENTRILOGICCANADA",
-      "jitter_ms" : 2.8,
+      "jitter_ms" : 57,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "CENTRILOGICCANADA",
       "region" : "CA",
-      "score" : 66.3,
+      "score" : 51,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:41:41Z",
-      "up_mbps" : 3.49
+      "tested_at" : "2026-11-25T18:54:52Z",
+      "up_mbps" : 0.57
     }
   ],
   "provider" : "CENTRILOGICCANADA",
   "provider_id" : "centrilogiccanada",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

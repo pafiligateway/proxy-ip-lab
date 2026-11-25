@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "YVR",
-      "delay_ms" : 905.5,
-      "down_mbps" : 3.09,
+      "delay_ms" : 1752.7,
+      "down_mbps" : 2.78,
       "edge" : false,
-      "grade" : "B-",
+      "grade" : "C-",
       "ip" : "174.4.69.68",
       "isp" : "Shaw Communications",
-      "jitter_ms" : 7,
+      "jitter_ms" : 1178.5,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Shaw Communications",
       "region" : "CA",
-      "score" : 56.4,
-      "stability" : 0,
-      "tested_at" : "2026-11-21T21:42:11Z",
-      "up_mbps" : 2.19
+      "score" : 31.3,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T18:54:54Z",
+      "up_mbps" : 0.25
     }
   ],
   "provider" : "Shaw Communications",
   "provider_id" : "shaw-communications",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

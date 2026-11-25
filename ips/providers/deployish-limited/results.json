@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "ARN",
-      "delay_ms" : 469.2,
-      "down_mbps" : 2.93,
+      "delay_ms" : 580,
+      "down_mbps" : 3.08,
       "edge" : false,
-      "grade" : "B",
+      "grade" : "C+",
       "ip" : "46.249.103.50",
       "isp" : "Deployish Limited",
-      "jitter_ms" : 30.9,
+      "jitter_ms" : 379.3,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Deployish Limited",
       "region" : "SE",
-      "score" : 66.9,
+      "score" : 49.7,
       "stability" : 1,
-      "tested_at" : "2026-11-22T08:05:46Z",
-      "up_mbps" : 3.6
+      "tested_at" : "2026-11-25T19:36:53Z",
+      "up_mbps" : 4.55
     }
   ],
   "provider" : "Deployish Limited",
   "provider_id" : "deployish-limited",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "WAW",
-      "delay_ms" : 423.2,
-      "down_mbps" : 4.03,
+      "delay_ms" : 500.3,
+      "down_mbps" : 3.76,
       "edge" : false,
-      "grade" : "B",
+      "grade" : "B+",
       "ip" : "95.164.93.114",
       "isp" : "Netassist Limited",
-      "jitter_ms" : 26.8,
+      "jitter_ms" : 14.3,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Netassist Limited",
       "region" : "DE",
-      "score" : 67.5,
+      "score" : 69.2,
       "stability" : 1,
-      "tested_at" : "2026-11-21T19:49:41Z",
-      "up_mbps" : 1.07
+      "tested_at" : "2026-11-25T18:55:55Z",
+      "up_mbps" : 5.96
     }
   ],
   "provider" : "Netassist Limited",
   "provider_id" : "netassist-limited",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

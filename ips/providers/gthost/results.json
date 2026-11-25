@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "CDG",
-      "delay_ms" : 338.6,
-      "down_mbps" : 7.06,
+      "delay_ms" : 451.5,
+      "down_mbps" : 1.25,
       "edge" : false,
-      "grade" : "A-",
+      "grade" : "B",
       "ip" : "139.64.167.70",
       "isp" : "GTHost",
-      "jitter_ms" : 2.1,
+      "jitter_ms" : 61.9,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "GTHost",
       "region" : "FR",
-      "score" : 77.3,
+      "score" : 63,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:24:46Z",
-      "up_mbps" : 7.19
+      "tested_at" : "2026-11-25T19:36:54Z",
+      "up_mbps" : 5.5
     }
   ],
   "provider" : "GTHost",
   "provider_id" : "gthost",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

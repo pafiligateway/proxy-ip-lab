@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "BEG",
-      "delay_ms" : 445.2,
-      "down_mbps" : 5.7,
+      "delay_ms" : 514.7,
+      "down_mbps" : 2.82,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "B",
       "ip" : "185.105.108.43",
       "isp" : "Majordomo in Serbia",
-      "jitter_ms" : 28.4,
+      "jitter_ms" : 18.9,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Majordomo in Serbia",
       "region" : "RS",
-      "score" : 68.9,
-      "stability" : 1,
-      "tested_at" : "2026-11-22T07:25:03Z",
-      "up_mbps" : 1.92
+      "score" : 67.2,
+      "stability" : 0,
+      "tested_at" : "2026-11-25T19:36:44Z",
+      "up_mbps" : 5.23
     }
   ],
   "provider" : "Majordomo in Serbia",
   "provider_id" : "majordomo-in-serbia",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

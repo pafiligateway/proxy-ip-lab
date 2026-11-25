@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "ARN",
-      "delay_ms" : 416.5,
-      "down_mbps" : 5.16,
+      "delay_ms" : 569.3,
+      "down_mbps" : 0.36,
       "edge" : false,
-      "grade" : "B",
+      "grade" : "C+",
       "ip" : "212.147.224.250",
       "isp" : "UpCloud Cloud Servers",
-      "jitter_ms" : 77.9,
+      "jitter_ms" : 318.2,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "UpCloud Cloud Servers",
       "region" : "SE",
-      "score" : 67.3,
-      "stability" : 0,
-      "tested_at" : "2026-11-22T08:05:38Z",
-      "up_mbps" : 5.56
+      "score" : 45.7,
+      "stability" : 1,
+      "tested_at" : "2026-11-25T19:36:54Z",
+      "up_mbps" : 4.59
     }
   ],
   "provider" : "UpCloud Cloud Servers",
   "provider_id" : "upcloud-cloud-servers",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

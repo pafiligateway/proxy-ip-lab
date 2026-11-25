@@ -4,26 +4,64 @@
   "entries" : [
     {
       "asn" : "",
-      "colo" : "HKG",
-      "delay_ms" : 878.4,
-      "down_mbps" : 2.78,
+      "colo" : "LAX",
+      "delay_ms" : 830.7,
+      "down_mbps" : 1.98,
       "edge" : false,
       "grade" : "B-",
+      "ip" : "144.225.255.169",
+      "isp" : "Panstar Cloud Limited",
+      "jitter_ms" : 23.7,
+      "loss_pct" : 0,
+      "port" : 443,
+      "provider" : "Panstar Cloud Limited",
+      "region" : "CN",
+      "score" : 56,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T08:38:07Z",
+      "up_mbps" : 2.75
+    },
+    {
+      "asn" : "",
+      "colo" : "HKG",
+      "delay_ms" : 956.1,
+      "down_mbps" : 1.24,
+      "edge" : false,
+      "grade" : "C+",
       "ip" : "43.161.228.229",
       "isp" : "ACEVILLE PTE.LTD.",
-      "jitter_ms" : 9.3,
+      "jitter_ms" : 69.6,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "ACEVILLE PTE.LTD.",
       "region" : "CN",
-      "score" : 54.9,
+      "score" : 46.6,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:57:07Z",
-      "up_mbps" : 0.65
+      "tested_at" : "2026-11-25T19:37:24Z",
+      "up_mbps" : 1.84
+    },
+    {
+      "asn" : "",
+      "colo" : "LAX",
+      "delay_ms" : 2205.6,
+      "down_mbps" : 2.14,
+      "edge" : false,
+      "grade" : "C-",
+      "ip" : "8.134.220.58",
+      "isp" : "Hangzhou Alibaba Advertising Co., Ltd.",
+      "jitter_ms" : 2110.9,
+      "loss_pct" : 0,
+      "port" : 8443,
+      "provider" : "Alibaba Cloud",
+      "region" : "CN",
+      "score" : 30.5,
+      "stability" : 1,
+      "tested_at" : "2026-11-22T08:37:10Z",
+      "up_mbps" : 0.24
     }
   ],
   "operators" : [
     "tci"
   ],
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

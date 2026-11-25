@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "ARN",
-      "delay_ms" : 336.7,
-      "down_mbps" : 5.34,
+      "delay_ms" : 787,
+      "down_mbps" : 1.95,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "C",
       "ip" : "206.168.215.172",
       "isp" : "DFDB LLC",
-      "jitter_ms" : 29.6,
+      "jitter_ms" : 856,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "DFDB LLC",
       "region" : "SE",
-      "score" : 73.8,
+      "score" : 41.4,
       "stability" : 1,
-      "tested_at" : "2026-11-22T08:05:32Z",
-      "up_mbps" : 6.77
+      "tested_at" : "2026-11-25T19:36:50Z",
+      "up_mbps" : 6.23
     }
   ],
   "provider" : "DFDB LLC",
   "provider_id" : "dfdb-llc",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

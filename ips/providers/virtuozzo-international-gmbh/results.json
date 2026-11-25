@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "FRA",
-      "delay_ms" : 346.9,
-      "down_mbps" : 4.5,
+      "delay_ms" : 355.2,
+      "down_mbps" : 8.51,
       "edge" : false,
       "grade" : "B+",
       "ip" : "185.209.82.152",
       "isp" : "Virtuozzo International GmbH",
-      "jitter_ms" : 13,
+      "jitter_ms" : 26.4,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Virtuozzo International GmbH",
       "region" : "DE",
-      "score" : 74,
+      "score" : 75.4,
       "stability" : 1,
-      "tested_at" : "2026-11-21T19:49:30Z",
-      "up_mbps" : 5.68
+      "tested_at" : "2026-11-25T18:55:55Z",
+      "up_mbps" : 6.81
     }
   ],
   "provider" : "Virtuozzo International GmbH",
   "provider_id" : "virtuozzo-international-gmbh",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

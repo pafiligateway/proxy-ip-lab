@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "CDG",
-      "delay_ms" : 343.9,
-      "down_mbps" : 8.01,
+      "delay_ms" : 537.1,
+      "down_mbps" : 0.64,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "C+",
       "ip" : "45.144.28.170",
       "isp" : "Baykov Ilya Sergeevich",
-      "jitter_ms" : 23,
+      "jitter_ms" : 269.7,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Baykov Ilya Sergeevich",
       "region" : "FR",
-      "score" : 75.6,
+      "score" : 45,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:26:14Z",
-      "up_mbps" : 6.54
+      "tested_at" : "2026-11-25T19:36:44Z",
+      "up_mbps" : 0.97
     }
   ],
   "provider" : "Baykov Ilya Sergeevich",
   "provider_id" : "baykov-ilya-sergeevich",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

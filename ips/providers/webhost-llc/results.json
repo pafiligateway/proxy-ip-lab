@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "FRA",
-      "delay_ms" : 467.4,
-      "down_mbps" : 7.95,
+      "delay_ms" : 533.4,
+      "down_mbps" : 0.34,
       "edge" : false,
-      "grade" : "B+",
+      "grade" : "B-",
       "ip" : "185.179.189.75",
       "isp" : "Webhost LLC",
-      "jitter_ms" : 10.9,
+      "jitter_ms" : 143.1,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Webhost LLC",
       "region" : "RU",
-      "score" : 73.2,
+      "score" : 52.3,
       "stability" : 1,
-      "tested_at" : "2026-11-21T22:07:52Z",
-      "up_mbps" : 6.12
+      "tested_at" : "2026-11-25T19:11:21Z",
+      "up_mbps" : 5.46
     }
   ],
   "provider" : "Webhost LLC",
   "provider_id" : "webhost-llc",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

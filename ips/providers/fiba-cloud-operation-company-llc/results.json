@@ -3,43 +3,24 @@
     {
       "asn" : "",
       "colo" : "SOF",
-      "delay_ms" : 352.5,
-      "down_mbps" : 7.8,
+      "delay_ms" : 809.9,
+      "down_mbps" : 3.87,
       "edge" : false,
-      "grade" : "B+",
-      "ip" : "31.40.204.119",
-      "isp" : "Fiba Cloud Operation Company, LLC",
-      "jitter_ms" : 37,
-      "loss_pct" : 0,
-      "port" : 443,
-      "provider" : "Fiba Cloud Operation Company, LLC",
-      "region" : "TR",
-      "score" : 74,
-      "stability" : 1,
-      "tested_at" : "2026-11-21T21:47:41Z",
-      "up_mbps" : 6.21
-    },
-    {
-      "asn" : "",
-      "colo" : "SOF",
-      "delay_ms" : 355.9,
-      "down_mbps" : 8.11,
-      "edge" : false,
-      "grade" : "B+",
+      "grade" : "C",
       "ip" : "31.40.204.243",
       "isp" : "Fiba Cloud Operation Company, LLC",
-      "jitter_ms" : 36.3,
+      "jitter_ms" : 530.6,
       "loss_pct" : 0,
       "port" : 2053,
       "provider" : "Fiba Cloud Operation Company, LLC",
       "region" : "TR",
-      "score" : 72.8,
+      "score" : 43.5,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:47:56Z",
-      "up_mbps" : 3.38
+      "tested_at" : "2026-11-25T19:37:09Z",
+      "up_mbps" : 7.34
     }
   ],
   "provider" : "Fiba Cloud Operation Company, LLC",
   "provider_id" : "fiba-cloud-operation-company-llc",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

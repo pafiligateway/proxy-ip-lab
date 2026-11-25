@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "HKG",
-      "delay_ms" : 778,
-      "down_mbps" : 0.97,
+      "delay_ms" : 851.3,
+      "down_mbps" : 0.27,
       "edge" : false,
-      "grade" : "B-",
+      "grade" : "C+",
       "ip" : "219.76.13.169",
       "isp" : "Hong Kong Telecommunications (HKT) Limited Mass Internet",
-      "jitter_ms" : 12.7,
+      "jitter_ms" : 40.6,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "Hong Kong Telecommunications (HKT) Limited Mass Internet",
       "region" : "HK",
-      "score" : 56.7,
+      "score" : 50.4,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:58:16Z",
-      "up_mbps" : 2.92
+      "tested_at" : "2026-11-25T19:37:18Z",
+      "up_mbps" : 2.71
     }
   ],
   "provider" : "Hong Kong Telecommunications (HKT) Limited Mass Internet",
   "provider_id" : "hong-kong-telecommunications-hkt-limited-mass-internet",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

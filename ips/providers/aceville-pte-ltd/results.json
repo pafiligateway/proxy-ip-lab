@@ -3,43 +3,24 @@
     {
       "asn" : "",
       "colo" : "HKG",
-      "delay_ms" : 868.7,
-      "down_mbps" : 2.73,
+      "delay_ms" : 956.1,
+      "down_mbps" : 1.24,
       "edge" : false,
-      "grade" : "B-",
-      "ip" : "43.161.254.71",
-      "isp" : "ACEVILLE PTE.LTD.",
-      "jitter_ms" : 11.2,
-      "loss_pct" : 0,
-      "port" : 443,
-      "provider" : "ACEVILLE PTE.LTD.",
-      "region" : "HK",
-      "score" : 56.8,
-      "stability" : 1,
-      "tested_at" : "2026-11-21T21:58:15Z",
-      "up_mbps" : 2.48
-    },
-    {
-      "asn" : "",
-      "colo" : "HKG",
-      "delay_ms" : 878.4,
-      "down_mbps" : 2.78,
-      "edge" : false,
-      "grade" : "B-",
+      "grade" : "C+",
       "ip" : "43.161.228.229",
       "isp" : "ACEVILLE PTE.LTD.",
-      "jitter_ms" : 9.3,
+      "jitter_ms" : 69.6,
       "loss_pct" : 0,
       "port" : 443,
       "provider" : "ACEVILLE PTE.LTD.",
       "region" : "CN",
-      "score" : 54.9,
+      "score" : 46.6,
       "stability" : 1,
-      "tested_at" : "2026-11-21T21:57:07Z",
-      "up_mbps" : 0.65
+      "tested_at" : "2026-11-25T19:37:24Z",
+      "up_mbps" : 1.84
     }
   ],
   "provider" : "ACEVILLE PTE.LTD.",
   "provider_id" : "aceville-pte-ltd",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }

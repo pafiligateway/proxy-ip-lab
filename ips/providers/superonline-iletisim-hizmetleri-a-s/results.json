@@ -3,24 +3,24 @@
     {
       "asn" : "",
       "colo" : "AMS",
-      "delay_ms" : 583.1,
-      "down_mbps" : 11.69,
+      "delay_ms" : 452.7,
+      "down_mbps" : 0.78,
       "edge" : false,
-      "grade" : "B-",
+      "grade" : "B",
       "ip" : "84.51.54.101",
       "isp" : "Superonline Iletisim Hizmetleri A.S.",
-      "jitter_ms" : 386.2,
+      "jitter_ms" : 37.1,
       "loss_pct" : 0,
       "port" : 8443,
       "provider" : "Superonline Iletisim Hizmetleri A.S.",
       "region" : "TR",
-      "score" : 54.4,
-      "stability" : 1,
-      "tested_at" : "2026-11-21T21:48:31Z",
-      "up_mbps" : 11.76
+      "score" : 65.3,
+      "stability" : 0,
+      "tested_at" : "2026-11-25T19:37:21Z",
+      "up_mbps" : 9.49
     }
   ],
   "provider" : "Superonline Iletisim Hizmetleri A.S.",
   "provider_id" : "superonline-iletisim-hizmetleri-a-s",
-  "updated" : "2026-11-22T08:13:23Z"
+  "updated" : "2026-11-25T20:34:22Z"
 }
